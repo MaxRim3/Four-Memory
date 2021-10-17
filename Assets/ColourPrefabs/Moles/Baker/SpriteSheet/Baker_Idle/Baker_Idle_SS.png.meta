@@ -1,0 +1,763 @@
+fileFormatVersion: 2
+guid: 1b4e4e9b42cfc9345a0ae935d67367bb
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Baker_Idle_SS
+    21300002: bakerUp_HD2048_00000
+    21300004: bakerUp_HD2048_00001
+    21300006: bakerUp_HD2048_00002
+    21300008: bakerUp_HD2048_00003
+    21300010: bakerUp_HD2048_00004
+    21300012: bakerUp_HD2048_00005
+    21300014: bakerUp_HD2048_00006
+    21300016: bakerUp_HD2048_00007
+    21300018: bakerUp_HD2048_00008
+    21300020: bakerUp_HD2048_00009
+    21300022: bakerUp_HD2048_00010
+    21300024: bakerUp_HD2048_00011
+    21300026: bakerUp_HD2048_00012
+    21300028: bakerUp_HD2048_00013
+    21300030: bakerUp_HD2048_00014
+    21300032: bakerUp_HD2048_00015
+    21300034: bakerUp_HD2048_00016
+    21300036: bakerUp_HD2048_00017
+    21300038: bakerUp_HD2048_00018
+    21300040: bakerUp_HD2048_00019
+    21300042: bakerUp_HD2048_00020
+    21300044: bakerUp_HD2048_00021
+    21300046: bakerUp_HD2048_00022
+    21300048: bakerUp_HD2048_00023
+    21300050: bakerUp_HD2048_00024
+    21300052: bakerUp_HD2048_00025
+    21300054: bakerUp_HD2048_00026
+    21300056: bakerUp_HD2048_00027
+    21300058: bakerUp_HD2048_00028
+    21300060: bakerUp_HD2048_00029
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: bakerUp_HD2048_00000
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 396
+        width: 598
+        height: 737
+      alignment: 9
+      pivot: {x: 0.53177255, y: -0.21845318}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 995762b6b7a87c8428c5bd7efca5c5cf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bakerUp_HD2048_00001
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 2621
+        width: 593
+        height: 735
+      alignment: 9
+      pivot: {x: 0.52107924, y: -0.21904762}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3973988dce49d7c43bcb29bc6dd68d58
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bakerUp_HD2048_00002
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1139
+        width: 590
+        height: 736
+      alignment: 9
+      pivot: {x: 0.5220339, y: -0.21875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50ef0dcbdd0abb445b6191aa14d98306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bakerUp_HD2048_00003
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2614
+        width: 592
+        height: 739
+      alignment: 9
+      pivot: {x: 0.5219595, y: -0.21786198}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c43946dd29c3b6843b4200c1d0b7abea
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bakerUp_HD2048_00004
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1135
+        width: 604
+        height: 737
+      alignment: 9
+      pivot: {x: 0.52483445, y: -0.21845318}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dd20344c117d8b438732db057ee1c01
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bakerUp_HD2048_00005
+      rect:
+        serializedVersion: 2
+        x: 1198
+        y: 400
+        width: 598
+        height: 736
+      alignment: 9
+      pivot: {x: 0.53010035, y: -0.21875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fabf27fd79857d74b8e7fc064c95f851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bakerUp_HD2048_00006
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 1138
+        width: 591
+        height: 737
+      alignment: 9
+      pivot: {x: 0.5245347, y: -0.21845318}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa65754675d278547a7e19967f2e409d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bakerUp_HD2048_00007
+      rect:
+        serializedVersion: 2
+        x: 2457
+        y: 1890
+        width: 593
+        height: 733
+      alignment: 9
+      pivot: {x: 0.52107924, y: -0.21964529}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88111dbf30b5c8a419d31b96a437fa13
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bakerUp_HD2048_00008
+      rect:
+        serializedVersion: 2
+        x: 2490
+        y: 3361
+        width: 596
+        height: 734
+      alignment: 9
+      pivot: {x: 0.5218121, y: -0.21934605}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e937434f5242a54eaf9b3509b60a918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bakerUp_HD2048_00009
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1874
+        width: 597
+        height: 738
+      alignment: 9
+      pivot: {x: 0.5242881, y: -0.21815719}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f890bce0d34cef242bc9c5acaf567b72
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bakerUp_HD2048_00010
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 396
+        width: 595
+        height: 737
+      alignment: 9
+      pivot: {x: 0.51932776, y: -0.21845318}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb85759db2f25ce45952bfd9c13e6fe3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bakerUp_HD2048_00011
+      rect:
+        serializedVersion: 2
+        x: 2394
+        y: 1154
+        width: 595
+        height: 733
+      alignment: 9
+      pivot: {x: 0.5176471, y: -0.21964529}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e35c9efe0093b14cbf2c0ba668d1ba8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bakerUp_HD2048_00012
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 1142
+        width: 600
+        height: 735
+      alignment: 9
+      pivot: {x: 0.51666665, y: -0.21904762}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de51b05faab82cb4487fea5089db198a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bakerUp_HD2048_00013
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1877
+        width: 599
+        height: 737
+      alignment: 9
+      pivot: {x: 0.5208681, y: -0.21845318}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee93692c1e3c5f94caf4d5c280fabf27
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bakerUp_HD2048_00014
+      rect:
+        serializedVersion: 2
+        x: 2445
+        y: 2625
+        width: 597
+        height: 734
+      alignment: 9
+      pivot: {x: 0.52093804, y: -0.21934605}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ffd0a731e7848040ad4b365dedbf51b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bakerUp_HD2048_00015
+      rect:
+        serializedVersion: 2
+        x: 3038
+        y: 424
+        width: 604
+        height: 730
+      alignment: 9
+      pivot: {x: 0.51986754, y: -0.22054794}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebe7139275bc7a34789655c16a37ab36
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bakerUp_HD2048_00016
+      rect:
+        serializedVersion: 2
+        x: 3052
+        y: 1893
+        width: 606
+        height: 732
+      alignment: 9
+      pivot: {x: 0.5181518, y: -0.21994536}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 561a240fdbb262848b892b681cf6acc6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bakerUp_HD2048_00017
+      rect:
+        serializedVersion: 2
+        x: 2991
+        y: 1156
+        width: 616
+        height: 732
+      alignment: 9
+      pivot: {x: 0.5146104, y: -0.21994536}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d3136f4bfeaac2428f5f138cbaeac55
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bakerUp_HD2048_00018
+      rect:
+        serializedVersion: 2
+        x: 1838
+        y: 1889
+        width: 617
+        height: 734
+      alignment: 9
+      pivot: {x: 0.5153971, y: -0.21934605}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67951d2259d11c6409773dd1c161673e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bakerUp_HD2048_00019
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 2616
+        width: 623
+        height: 737
+      alignment: 9
+      pivot: {x: 0.5168539, y: -0.21845318}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b83e68c86540a74479dd9d9241174529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bakerUp_HD2048_00020
+      rect:
+        serializedVersion: 2
+        x: 3088
+        y: 2627
+        width: 620
+        height: 733
+      alignment: 9
+      pivot: {x: 0.5193548, y: -0.21964529}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1f8514215ece81459a4c34c55f6612d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bakerUp_HD2048_00021
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 3358
+        width: 616
+        height: 737
+      alignment: 9
+      pivot: {x: 0.5194805, y: -0.21438263}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8499e788df2a0d4ca8732ad7b426151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bakerUp_HD2048_00022
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 3355
+        width: 617
+        height: 740
+      alignment: 9
+      pivot: {x: 0.5235008, y: -0.21351351}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dbcd94ab7a14ea45ba18673ff6c2d09
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bakerUp_HD2048_00023
+      rect:
+        serializedVersion: 2
+        x: 2419
+        y: 420
+        width: 617
+        height: 732
+      alignment: 9
+      pivot: {x: 0.5121556, y: -0.21994536}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a7644eaa270367469242c6e64e661db
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bakerUp_HD2048_00024
+      rect:
+        serializedVersion: 2
+        x: 1798
+        y: 407
+        width: 619
+        height: 733
+      alignment: 9
+      pivot: {x: 0.5169628, y: -0.21691678}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b383dfec56ada70409b57683752959bf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bakerUp_HD2048_00025
+      rect:
+        serializedVersion: 2
+        x: 3088
+        y: 3362
+        width: 623
+        height: 733
+      alignment: 9
+      pivot: {x: 0.5168539, y: -0.21691678}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e834876508898014d877945de8774ba0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bakerUp_HD2048_00026
+      rect:
+        serializedVersion: 2
+        x: 1238
+        y: 3361
+        width: 629
+        height: 734
+      alignment: 9
+      pivot: {x: 0.5198728, y: -0.21662125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b58c2274a69af7499f8241805afb27c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bakerUp_HD2048_00027
+      rect:
+        serializedVersion: 2
+        x: 1815
+        y: 2625
+        width: 628
+        height: 734
+      alignment: 9
+      pivot: {x: 0.5143312, y: -0.21662125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73b275561559bef4dbfe6d08ebe64814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bakerUp_HD2048_00028
+      rect:
+        serializedVersion: 2
+        x: 1201
+        y: 1879
+        width: 635
+        height: 735
+      alignment: 9
+      pivot: {x: 0.51496065, y: -0.21496598}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd11f09630b797f4aacc8c9dbecf900e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bakerUp_HD2048_00029
+      rect:
+        serializedVersion: 2
+        x: 1869
+        y: 3361
+        width: 619
+        height: 734
+      alignment: 9
+      pivot: {x: 0.51373184, y: -0.21662125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68b92aca415ca4c4a9b83908ac0fd2e9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: b3794f44e403b944e862b0fe6cb3aa8e
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

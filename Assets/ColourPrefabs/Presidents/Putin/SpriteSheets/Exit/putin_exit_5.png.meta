@@ -1,0 +1,404 @@
+fileFormatVersion: 2
+guid: 4e980f06cfe74b84abd968d1479c96ea
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: putin_exit_5
+    21300002: putin_exit_00075
+    21300004: putin_exit_00076
+    21300006: putin_exit_00077
+    21300008: putin_exit_00078
+    21300010: putin_exit_00079
+    21300012: putin_exit_00080
+    21300014: putin_exit_00081
+    21300016: putin_exit_00082
+    21300018: putin_exit_00083
+    21300020: putin_exit_00084
+    21300022: putin_exit_00085
+    21300024: putin_exit_00086
+    21300026: putin_exit_00087
+    21300028: putin_exit_00088
+    21300030: putin_exit_00089
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: putin_exit_00075
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 3375
+        width: 1147
+        height: 720
+      alignment: 9
+      pivot: {x: 0.4716652, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d9345005183d994dae2522021d1f819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: putin_exit_00076
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 3375
+        width: 1147
+        height: 720
+      alignment: 9
+      pivot: {x: 0.4716652, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9f4d7466d2e12749a5836d5c24908ab
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: putin_exit_00077
+      rect:
+        serializedVersion: 2
+        x: 2299
+        y: 3375
+        width: 1147
+        height: 720
+      alignment: 9
+      pivot: {x: 0.4716652, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b04c9d33700ad04a864e2e6318fb216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: putin_exit_00078
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2653
+        width: 1147
+        height: 720
+      alignment: 9
+      pivot: {x: 0.4716652, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b13a3cdd1bb3a74ba1b083894642f86
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: putin_exit_00079
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 2653
+        width: 1147
+        height: 720
+      alignment: 9
+      pivot: {x: 0.4716652, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13b7fa953be8c4641b73319ec8186501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: putin_exit_00080
+      rect:
+        serializedVersion: 2
+        x: 2299
+        y: 2653
+        width: 1147
+        height: 720
+      alignment: 9
+      pivot: {x: 0.4716652, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db0622cc6b3fb014498840c8b3d6a69f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: putin_exit_00081
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1931
+        width: 1147
+        height: 720
+      alignment: 9
+      pivot: {x: 0.4716652, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9519546c807dacd4db86977433d6c249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: putin_exit_00082
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1209
+        width: 1147
+        height: 720
+      alignment: 9
+      pivot: {x: 0.4716652, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe715745c7b98294eb3c11356a00880e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: putin_exit_00083
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 487
+        width: 1147
+        height: 720
+      alignment: 9
+      pivot: {x: 0.4716652, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 406d21468d747ca48bce57dd6516f1da
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: putin_exit_00084
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 1931
+        width: 1147
+        height: 720
+      alignment: 9
+      pivot: {x: 0.4716652, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adec828a3be808244ac3d8d63571f42b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: putin_exit_00085
+      rect:
+        serializedVersion: 2
+        x: 2299
+        y: 1931
+        width: 1147
+        height: 720
+      alignment: 9
+      pivot: {x: 0.4716652, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 929ca05d9f245474ca879cd659cb2f90
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: putin_exit_00086
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 1209
+        width: 1147
+        height: 720
+      alignment: 9
+      pivot: {x: 0.4716652, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10752b13e5f4fc448bc19575f119c9f0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: putin_exit_00087
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 487
+        width: 1147
+        height: 720
+      alignment: 9
+      pivot: {x: 0.4716652, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8387a5fd31f26204d9cd01d0312430ca
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: putin_exit_00088
+      rect:
+        serializedVersion: 2
+        x: 2299
+        y: 1209
+        width: 1147
+        height: 720
+      alignment: 9
+      pivot: {x: 0.4716652, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30d9c5644d1eedc4fb05c34274a75e54
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: putin_exit_00089
+      rect:
+        serializedVersion: 2
+        x: 2299
+        y: 487
+        width: 1147
+        height: 720
+      alignment: 9
+      pivot: {x: 0.4716652, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6ad1cb687502454f87fdddaed3c636a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 8e2c538c6e590804c8e7d6c264dad7e4
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

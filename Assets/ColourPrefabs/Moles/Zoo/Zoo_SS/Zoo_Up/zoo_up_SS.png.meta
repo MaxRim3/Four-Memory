@@ -1,0 +1,973 @@
+fileFormatVersion: 2
+guid: 7c88f927e82b4b147a5ea610f6a389d4
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: zoo_up_SS
+    21300002: zooUp_00000
+    21300004: zooUp_00001
+    21300006: zooUp_00002
+    21300008: zooUp_00003
+    21300010: zooUp_00004
+    21300012: zooUp_00005
+    21300014: zooUp_00006
+    21300016: zooUp_00007
+    21300018: zooUp_00008
+    21300020: zooUp_00009
+    21300022: zooUp_00010
+    21300024: zooUp_00011
+    21300026: zooUp_00012
+    21300028: zooUp_00013
+    21300030: zooUp_00014
+    21300032: zooUp_00015
+    21300034: zooUp_00016
+    21300036: zooUp_00017
+    21300038: zooUp_00018
+    21300040: zooUp_00019
+    21300042: zooUp_00020
+    21300044: zooUp_00021
+    21300046: zooUp_00022
+    21300048: zooUp_00023
+    21300050: zooUp_00024
+    21300052: zooUp_00025
+    21300054: zooUp_00026
+    21300056: zooUp_00027
+    21300058: zooUp_00028
+    21300060: zooUp_00029
+    21300062: zooUp_00030
+    21300064: zooUp_00031
+    21300066: zooUp_00032
+    21300068: zooUp_00033
+    21300070: zooUp_00034
+    21300072: zooUp_00035
+    21300074: zooUp_00036
+    21300076: zooUp_00037
+    21300078: zooUp_00038
+    21300080: zooUp_00039
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: zooUp_00000
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 1329
+        width: 1
+        height: 1
+      alignment: 9
+      pivot: {x: 640, y: -639}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 958e5f137aa49db43905107c6ec1cfa7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zooUp_00001
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 1329
+        width: 1
+        height: 1
+      alignment: 9
+      pivot: {x: 640, y: -639}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b326a8766c05184bab1483e112c96a5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zooUp_00002
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 1329
+        width: 1
+        height: 1
+      alignment: 9
+      pivot: {x: 640, y: -639}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a83647d7051d79f4e9027405a5757b66
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zooUp_00003
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 1329
+        width: 1
+        height: 1
+      alignment: 9
+      pivot: {x: 640, y: -639}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fe879249479fd94a97200fbe48250f9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zooUp_00004
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 1329
+        width: 1
+        height: 1
+      alignment: 9
+      pivot: {x: 640, y: -639}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84c7b2cba5fb3d043a027ebcb6e88602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zooUp_00005
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 1329
+        width: 1
+        height: 1
+      alignment: 9
+      pivot: {x: 640, y: -639}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fee1856255f8a21448ebd34f9b514939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zooUp_00006
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 1329
+        width: 1
+        height: 1
+      alignment: 9
+      pivot: {x: 640, y: -639}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b9fccc28a5f992419d3e9425d571890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zooUp_00007
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 309
+        width: 95
+        height: 16
+      alignment: 9
+      pivot: {x: 0.67368424, y: -5.1875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84cf5468e536dab43baf2c7ccfd06275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zooUp_00008
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 1336
+        width: 137
+        height: 48
+      alignment: 9
+      pivot: {x: 0.649635, y: -1.6458334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f954ecad06df1ae40a4de068133e252e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zooUp_00009
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 25
+        width: 187
+        height: 81
+      alignment: 9
+      pivot: {x: 0.5240642, y: -0.962963}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 654308b98b634d24285ef756eeec28f2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zooUp_00010
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 360
+        width: 178
+        height: 106
+      alignment: 9
+      pivot: {x: 0.53370786, y: -0.754717}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b58f1be432d7d824a8a975ff173c6428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zooUp_00011
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 329
+        width: 217
+        height: 137
+      alignment: 9
+      pivot: {x: 0.4562212, y: -0.5839416}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bcc36f7e37c27a439e304fc775ffe20
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zooUp_00012
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 719
+        width: 263
+        height: 165
+      alignment: 9
+      pivot: {x: 0.50190115, y: -0.46060607}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e9e97d95fed4fe4f8baf76b48a4f7f2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zooUp_00013
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 886
+        width: 268
+        height: 192
+      alignment: 9
+      pivot: {x: 0.51492536, y: -0.41145834}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 540603c38239fbb4bab6b565d7ea1f56
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zooUp_00014
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 108
+        width: 271
+        height: 219
+      alignment: 9
+      pivot: {x: 0.5276753, y: -0.3607306}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e8c6dde43d51fb47afb01d2aa048712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zooUp_00015
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 468
+        width: 263
+        height: 249
+      alignment: 9
+      pivot: {x: 0.5209125, y: -0.3172691}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79440ef557f967e4ab77594ae04916d5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zooUp_00016
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 15
+        width: 269
+        height: 279
+      alignment: 9
+      pivot: {x: 0.535316, y: -0.26523298}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eabb06efc26120549ba2db3e8cb60345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zooUp_00017
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 1430
+        width: 265
+        height: 302
+      alignment: 9
+      pivot: {x: 0.5660377, y: -0.26490065}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35e9786900c8da6449152b1df5060dd6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zooUp_00018
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 1702
+        width: 268
+        height: 345
+      alignment: 9
+      pivot: {x: 0.5671642, y: -0.23188406}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48b96dbdfab74d743a5f20df324d87a0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zooUp_00019
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 972
+        width: 265
+        height: 352
+      alignment: 9
+      pivot: {x: 0.5773585, y: -0.23011364}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00e08a1524831bf46a8dc7e0ab5acec5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zooUp_00020
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1686
+        width: 257
+        height: 361
+      alignment: 9
+      pivot: {x: 0.59922177, y: -0.22160664}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27c492a430738874084598b0b2c461ae
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zooUp_00021
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1326
+        width: 256
+        height: 358
+      alignment: 9
+      pivot: {x: 0.57421875, y: -0.22346368}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac6cfcce25b698347b1f4fb3758b0c0e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zooUp_00022
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 1332
+        width: 263
+        height: 352
+      alignment: 9
+      pivot: {x: 0.55893534, y: -0.22443181}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d06737ee7cdea6941a793bc06ad6379a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zooUp_00023
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 631
+        width: 264
+        height: 339
+      alignment: 9
+      pivot: {x: 0.5037879, y: -0.23303835}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26cd42c504744294db34a2c935636e64
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zooUp_00024
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 647
+        width: 260
+        height: 323
+      alignment: 9
+      pivot: {x: 0.48076922, y: -0.24767801}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e83f3c67584197940abd9041d8c3ea8d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zooUp_00025
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 7
+        width: 244
+        height: 318
+      alignment: 9
+      pivot: {x: 0.46721312, y: -0.254717}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab5fa83e5729b3242a9d0cabfe83d24a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zooUp_00026
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 717
+        width: 224
+        height: 307
+      alignment: 9
+      pivot: {x: 0.41964287, y: -0.26384366}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21b94cff809dfcf48b96ef4abb0eedcf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zooUp_00027
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 719
+        width: 213
+        height: 305
+      alignment: 9
+      pivot: {x: 0.39906102, y: -0.26229507}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d211d295d180334b8a32a930d9cf5cf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zooUp_00028
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 1
+        width: 197
+        height: 299
+      alignment: 9
+      pivot: {x: 0.3857868, y: -0.26086956}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55416450f2292f54589b0dbb4a450f2f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zooUp_00029
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 3
+        width: 216
+        height: 297
+      alignment: 9
+      pivot: {x: 0.3888889, y: -0.26936027}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa984cb30a92f2e4fa049e6f2d8209b3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zooUp_00030
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 1747
+        width: 213
+        height: 300
+      alignment: 9
+      pivot: {x: 0.38967136, y: -0.26666668}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a1a00bf25f68e1419866b0998d98170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zooUp_00031
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 1746
+        width: 223
+        height: 301
+      alignment: 9
+      pivot: {x: 0.41255605, y: -0.269103}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e0cd6049d244494bbc0caa583ab674e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zooUp_00032
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 1080
+        width: 234
+        height: 304
+      alignment: 9
+      pivot: {x: 0.41880342, y: -0.2631579}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e17913acd536c7d45ba3f10809f893b7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zooUp_00033
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 1026
+        width: 246
+        height: 308
+      alignment: 9
+      pivot: {x: 0.46747968, y: -0.2564935}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 156c33614900ea7408fb8fe7b492fa5e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zooUp_00034
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 1734
+        width: 257
+        height: 313
+      alignment: 9
+      pivot: {x: 0.45136186, y: -0.25559106}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b76984ad1bf486418e6e211be158c72
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zooUp_00035
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 1014
+        width: 257
+        height: 316
+      alignment: 9
+      pivot: {x: 0.47470817, y: -0.24683544}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 482c3982a846771449dcd1939e9c5558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zooUp_00036
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 1386
+        width: 258
+        height: 314
+      alignment: 9
+      pivot: {x: 0.49612403, y: -0.25796178}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9491a507fd7e4e4394359b531d1d026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zooUp_00037
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 327
+        width: 258
+        height: 318
+      alignment: 9
+      pivot: {x: 0.50775194, y: -0.24842767}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39c56065077834b45a908cabd007acdc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zooUp_00038
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 296
+        width: 258
+        height: 333
+      alignment: 9
+      pivot: {x: 0.51937985, y: -0.24024025}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22197b5d546c07b468dc3cf47c774e4b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zooUp_00039
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 302
+        width: 243
+        height: 327
+      alignment: 9
+      pivot: {x: 0.5308642, y: -0.24770643}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f325fda50846f34aa7fd0ada49c5e40
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 0faa128c0272ba4458886b57a4f64710
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

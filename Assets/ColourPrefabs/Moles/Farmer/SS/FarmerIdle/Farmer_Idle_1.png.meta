@@ -1,0 +1,1057 @@
+fileFormatVersion: 2
+guid: 7e965f25f87766f47b1b3cc83a134104
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Farmer_Idle_1
+    21300002: farmerIdle_00000
+    21300004: farmerIdle_00001
+    21300006: farmerIdle_00002
+    21300008: farmerIdle_00003
+    21300010: farmerIdle_00004
+    21300012: farmerIdle_00005
+    21300014: farmerIdle_00006
+    21300016: farmerIdle_00007
+    21300018: farmerIdle_00008
+    21300020: farmerIdle_00009
+    21300022: farmerIdle_00010
+    21300024: farmerIdle_00011
+    21300026: farmerIdle_00012
+    21300028: farmerIdle_00013
+    21300030: farmerIdle_00014
+    21300032: farmerIdle_00015
+    21300034: farmerIdle_00016
+    21300036: farmerIdle_00017
+    21300038: farmerIdle_00018
+    21300040: farmerIdle_00019
+    21300042: farmerIdle_00020
+    21300044: farmerIdle_00021
+    21300046: farmerIdle_00022
+    21300048: farmerIdle_00023
+    21300050: farmerIdle_00024
+    21300052: farmerIdle_00025
+    21300054: farmerIdle_00026
+    21300056: farmerIdle_00027
+    21300058: farmerIdle_00028
+    21300060: farmerIdle_00029
+    21300062: farmerIdle_00030
+    21300064: farmerIdle_00031
+    21300066: farmerIdle_00032
+    21300068: farmerIdle_00033
+    21300070: farmerIdle_00034
+    21300072: farmerIdle_00035
+    21300074: farmerIdle_00036
+    21300076: farmerIdle_00037
+    21300078: farmerIdle_00038
+    21300080: farmerIdle_00039
+    21300082: farmerIdle_00040
+    21300084: farmerIdle_00041
+    21300086: farmerIdle_00042
+    21300088: farmerIdle_00043
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: farmerIdle_00000
+      rect:
+        serializedVersion: 2
+        x: 1548
+        y: 468
+        width: 252
+        height: 305
+      alignment: 9
+      pivot: {x: 0.48412699, y: -0.2590164}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b51e3b1eae227f54ebc0479911945856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmerIdle_00001
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 802
+        width: 249
+        height: 308
+      alignment: 9
+      pivot: {x: 0.4939759, y: -0.2564935}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d1a0c6d250897b44b8f3a1c0064cf86
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmerIdle_00002
+      rect:
+        serializedVersion: 2
+        x: 1069
+        y: 1738
+        width: 264
+        height: 309
+      alignment: 9
+      pivot: {x: 0.52272725, y: -0.2588997}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7eac6b216b10d74cb96be677e632d8b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmerIdle_00003
+      rect:
+        serializedVersion: 2
+        x: 1576
+        y: 1112
+        width: 247
+        height: 312
+      alignment: 9
+      pivot: {x: 0.49392712, y: -0.25320512}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0febcc3173910a640a8e42762843989c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmerIdle_00004
+      rect:
+        serializedVersion: 2
+        x: 1779
+        y: 158
+        width: 248
+        height: 308
+      alignment: 9
+      pivot: {x: 0.48790324, y: -0.25974026}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 862538989c6e35f4bbc2327347599705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmerIdle_00005
+      rect:
+        serializedVersion: 2
+        x: 1335
+        y: 1740
+        width: 257
+        height: 307
+      alignment: 9
+      pivot: {x: 0.47470817, y: -0.26058632}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dd5d7d859a290b4eb9c4c0f290aeaa0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmerIdle_00006
+      rect:
+        serializedVersion: 2
+        x: 1594
+        y: 1740
+        width: 251
+        height: 307
+      alignment: 9
+      pivot: {x: 0.48207173, y: -0.26384366}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99aa522926ec74b42992475f39903756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmerIdle_00007
+      rect:
+        serializedVersion: 2
+        x: 1063
+        y: 1096
+        width: 260
+        height: 306
+      alignment: 9
+      pivot: {x: 0.46923077, y: -0.2647059}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55a66b71fb19cc74e8720ef9ad99d5b8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmerIdle_00008
+      rect:
+        serializedVersion: 2
+        x: 1325
+        y: 1098
+        width: 249
+        height: 315
+      alignment: 9
+      pivot: {x: 0.45783132, y: -0.25714287}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef2d2a3bcde23b247819f403e3fbf56b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmerIdle_00009
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 1068
+        width: 265
+        height: 314
+      alignment: 9
+      pivot: {x: 0.4716981, y: -0.25477707}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6361006b7c2bf9148bc6dcfcffe82ba9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmerIdle_00010
+      rect:
+        serializedVersion: 2
+        x: 1562
+        y: 1426
+        width: 251
+        height: 312
+      alignment: 9
+      pivot: {x: 0.47011954, y: -0.25641027}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a46b3fe8528c5c49832624b4a16a0bf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmerIdle_00011
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 1730
+        width: 259
+        height: 317
+      alignment: 9
+      pivot: {x: 0.45559844, y: -0.2555205}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f49edf221530744f83e9a10220e7b6a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmerIdle_00012
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 383
+        width: 266
+        height: 324
+      alignment: 9
+      pivot: {x: 0.4473684, y: -0.24382716}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d8487a503e650242be3e3af89d5b6f7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmerIdle_00013
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 1726
+        width: 261
+        height: 321
+      alignment: 9
+      pivot: {x: 0.45210728, y: -0.24922119}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b4f08356c981694f9d210bc1fcf4394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmerIdle_00014
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 58
+        width: 259
+        height: 323
+      alignment: 9
+      pivot: {x: 0.45173746, y: -0.24458204}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0333c9bab33779547a49e0d7db9887f2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmerIdle_00015
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 1400
+        width: 256
+        height: 324
+      alignment: 9
+      pivot: {x: 0.40625, y: -0.24382716}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59aaf8caf7b967a42a5e0da65d124bc6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmerIdle_00016
+      rect:
+        serializedVersion: 2
+        x: 1547
+        y: 775
+        width: 243
+        height: 321
+      alignment: 9
+      pivot: {x: 0.42798355, y: -0.24922119}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a76e392c0da3ab242893ad5e738b023f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmerIdle_00017
+      rect:
+        serializedVersion: 2
+        x: 1313
+        y: 1415
+        width: 247
+        height: 321
+      alignment: 9
+      pivot: {x: 0.41700405, y: -0.24922119}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfa5326f798d01a4d93938532ae99cde
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmerIdle_00018
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 743
+        width: 249
+        height: 323
+      alignment: 9
+      pivot: {x: 0.40562248, y: -0.250774}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 496ccb26e8c03694c913fe5c2797a44f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmerIdle_00019
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 1404
+        width: 256
+        height: 324
+      alignment: 9
+      pivot: {x: 0.4296875, y: -0.24691358}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d65048ad8e2c2344bb7f9b3487a76015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmerIdle_00020
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 730
+        width: 257
+        height: 325
+      alignment: 9
+      pivot: {x: 0.385214, y: -0.24307692}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 038348ec61df26f48816efa9777f2023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmerIdle_00021
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1379
+        width: 265
+        height: 334
+      alignment: 9
+      pivot: {x: 0.41509435, y: -0.23652695}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6e44270e3351b04db49ee5f80309271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmerIdle_00022
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 399
+        width: 250
+        height: 329
+      alignment: 9
+      pivot: {x: 0.384, y: -0.24012157}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b99857ef6bbc0e54399c994bfef6b014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmerIdle_00023
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 63
+        width: 254
+        height: 326
+      alignment: 9
+      pivot: {x: 0.38976377, y: -0.24539877}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6214144973011984d92dfc92f61cd744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmerIdle_00024
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 1384
+        width: 268
+        height: 329
+      alignment: 9
+      pivot: {x: 0.39179105, y: -0.24012157}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8216017a9b4e2c458eefd53048ebd2d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmerIdle_00025
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 58
+        width: 244
+        height: 339
+      alignment: 9
+      pivot: {x: 0.38114753, y: -0.2300885}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1f08a1d09ed4104792d9bd6620360f0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmerIdle_00026
+      rect:
+        serializedVersion: 2
+        x: 1534
+        y: 86
+        width: 243
+        height: 330
+      alignment: 9
+      pivot: {x: 0.37860084, y: -0.24242425}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 504566d553dcc3344812176b5798c847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmerIdle_00027
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 716
+        width: 258
+        height: 334
+      alignment: 9
+      pivot: {x: 0.35271317, y: -0.23652695}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40c26f1065ef391489bf87dd8b3bec7d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmerIdle_00028
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 709
+        width: 266
+        height: 332
+      alignment: 9
+      pivot: {x: 0.34586465, y: -0.23192771}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79d22328600eb5b4a85783375a8b2bf0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmerIdle_00029
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 48
+        width: 255
+        height: 333
+      alignment: 9
+      pivot: {x: 0.3529412, y: -0.23123123}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3235405028d23c945b0f554b9f17b497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmerIdle_00030
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1715
+        width: 272
+        height: 332
+      alignment: 9
+      pivot: {x: 0.38235295, y: -0.2379518}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d59d03f0a50bade4fb0f941668695542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmerIdle_00031
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 373
+        width: 262
+        height: 334
+      alignment: 9
+      pivot: {x: 0.370229, y: -0.23053892}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b8ed4c0df12b854eaf6cacc17809490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmerIdle_00032
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 1052
+        width: 266
+        height: 330
+      alignment: 9
+      pivot: {x: 0.34586465, y: -0.23939393}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9e71a11339de794081d69fc7dc50ae2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmerIdle_00033
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 717
+        width: 257
+        height: 333
+      alignment: 9
+      pivot: {x: 0.3540856, y: -0.24024025}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e785c3d15d144bb418c9df492bb217be
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmerIdle_00034
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 1384
+        width: 257
+        height: 332
+      alignment: 9
+      pivot: {x: 0.35797665, y: -0.23493975}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b9fb74687860934895327ebe3349070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmerIdle_00035
+      rect:
+        serializedVersion: 2
+        x: 1288
+        y: 59
+        width: 244
+        height: 339
+      alignment: 9
+      pivot: {x: 0.38114753, y: -0.2300885}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d5c8fa32742abb4b998b437eb222edd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmerIdle_00036
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 1718
+        width: 268
+        height: 329
+      alignment: 9
+      pivot: {x: 0.39179105, y: -0.24012157}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a84599767c4089e479120d96ced1a378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmerIdle_00037
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 43
+        width: 265
+        height: 328
+      alignment: 9
+      pivot: {x: 0.41132075, y: -0.24085365}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad002c01a33ef4d4c9e8edef3012645e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmerIdle_00038
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 400
+        width: 250
+        height: 328
+      alignment: 9
+      pivot: {x: 0.384, y: -0.24390244}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21dcfabf6cb1ac945be1f9bbc182d8dc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmerIdle_00039
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1043
+        width: 265
+        height: 334
+      alignment: 9
+      pivot: {x: 0.41509435, y: -0.23652695}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07cab56f8da765c419831a691ee80e89
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmerIdle_00040
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 1057
+        width: 258
+        height: 325
+      alignment: 9
+      pivot: {x: 0.38372093, y: -0.24307692}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86bb0d3eb069b5c4fab7b1b2f041610d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmerIdle_00041
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 391
+        width: 258
+        height: 324
+      alignment: 9
+      pivot: {x: 0.42635658, y: -0.24691358}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 631ced3a75b1526439e5df231fa348c8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmerIdle_00042
+      rect:
+        serializedVersion: 2
+        x: 1297
+        y: 418
+        width: 249
+        height: 323
+      alignment: 9
+      pivot: {x: 0.40562248, y: -0.250774}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a51616422c43c548a0159a780f25802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farmerIdle_00043
+      rect:
+        serializedVersion: 2
+        x: 1298
+        y: 773
+        width: 247
+        height: 321
+      alignment: 9
+      pivot: {x: 0.41700405, y: -0.24922119}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37249869b2fa73743a8ddd3246ee8a66
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5967fd0334a609a48b1f3d08e6e01284
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

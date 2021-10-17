@@ -1,0 +1,973 @@
+fileFormatVersion: 2
+guid: 6b5239058d19ca54195debdd48eb0b69
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: zoo_down_SS
+    21300002: means chart_00000
+    21300004: means chart_00001
+    21300006: means chart_00002
+    21300008: means chart_00003
+    21300010: means chart_00004
+    21300012: means chart_00005
+    21300014: means chart_00006
+    21300016: means chart_00007
+    21300018: means chart_00008
+    21300020: means chart_00009
+    21300022: means chart_00010
+    21300024: means chart_00011
+    21300026: means chart_00012
+    21300028: means chart_00013
+    21300030: means chart_00014
+    21300032: means chart_00015
+    21300034: means chart_00016
+    21300036: means chart_00017
+    21300038: means chart_00018
+    21300040: means chart_00019
+    21300042: means chart_00020
+    21300044: means chart_00021
+    21300046: means chart_00022
+    21300048: means chart_00023
+    21300050: means chart_00024
+    21300052: means chart_00025
+    21300054: means chart_00026
+    21300056: means chart_00027
+    21300058: means chart_00028
+    21300060: means chart_00029
+    21300062: means chart_00030
+    21300064: means chart_00031
+    21300066: means chart_00032
+    21300068: means chart_00033
+    21300070: means chart_00034
+    21300072: means chart_00035
+    21300074: means chart_00036
+    21300076: means chart_00037
+    21300078: means chart_00038
+    21300080: means chart_00039
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: means chart_00000
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 225
+        width: 246
+        height: 327
+      alignment: 9
+      pivot: {x: 0.5365854, y: -0.24770643}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 949f148c04507cc4c9b75830c6099ae0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: means chart_00001
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 224
+        width: 247
+        height: 328
+      alignment: 9
+      pivot: {x: 0.48582995, y: -0.24085365}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e12777c48718a5a4fa19a9341a93bd28
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: means chart_00002
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 990
+        width: 259
+        height: 303
+      alignment: 9
+      pivot: {x: 0.44401544, y: -0.2640264}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0318467ab04a9643ad71eabda5a86e0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: means chart_00003
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 366
+        width: 225
+        height: 280
+      alignment: 9
+      pivot: {x: 0.37333333, y: -0.28928572}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f29f26d05692f1d4bbed4493513761ee
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: means chart_00004
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 741
+        width: 214
+        height: 263
+      alignment: 9
+      pivot: {x: 0.3084112, y: -0.30038023}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be047e993c7d669468b852c05ab7c208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: means chart_00005
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 1424
+        width: 211
+        height: 248
+      alignment: 9
+      pivot: {x: 0.3127962, y: -0.32258064}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b552cdc9bd2a63e4ea8737ac4e59b160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: means chart_00006
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1457
+        width: 208
+        height: 245
+      alignment: 9
+      pivot: {x: 0.30769232, y: -0.32244897}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e911c17096ca12a4e90656e6b0cc5f13
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: means chart_00007
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 106
+        width: 210
+        height: 258
+      alignment: 9
+      pivot: {x: 0.31904763, y: -0.31007752}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97ca31b4c13b73e428120c1b5d664f80
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: means chart_00008
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 648
+        width: 241
+        height: 280
+      alignment: 9
+      pivot: {x: 0.41908714, y: -0.28214285}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 313fa21a9605e014292f4d01fcb5e7cf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: means chart_00009
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 274
+        width: 253
+        height: 308
+      alignment: 9
+      pivot: {x: 0.45849803, y: -0.25974026}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81254c283ae3215438a6d19a876fbb90
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: means chart_00010
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 1704
+        width: 272
+        height: 343
+      alignment: 9
+      pivot: {x: 0.50735295, y: -0.2303207}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2e5241c97055ee4284dcd4cac63fb60
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: means chart_00011
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 895
+        width: 284
+        height: 380
+      alignment: 9
+      pivot: {x: 0.55985916, y: -0.21052632}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8e48f556086b1c41b328510eda48a9d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: means chart_00012
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1662
+        width: 279
+        height: 385
+      alignment: 9
+      pivot: {x: 0.61290324, y: -0.2051948}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7eca62df091d574a96aa40a2b90b748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: means chart_00013
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1277
+        width: 272
+        height: 383
+      alignment: 9
+      pivot: {x: 0.61764705, y: -0.20626631}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d223f6b84479b614197b399dd67dfd69
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: means chart_00014
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 1295
+        width: 278
+        height: 365
+      alignment: 9
+      pivot: {x: 0.60071945, y: -0.22191781}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 809781482c18850489cb6381582c2b36
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: means chart_00015
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 1689
+        width: 269
+        height: 358
+      alignment: 9
+      pivot: {x: 0.60966545, y: -0.22067039}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45f8c38ee1c831742881f63201e792d9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: means chart_00016
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 554
+        width: 263
+        height: 339
+      alignment: 9
+      pivot: {x: 0.6121673, y: -0.21828909}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 779d0de965d27884db104a02e4d86e80
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: means chart_00017
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 584
+        width: 270
+        height: 309
+      alignment: 9
+      pivot: {x: 0.5888889, y: -0.25566342}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da21f6a903e748043975bd41b5f08075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: means chart_00018
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 1006
+        width: 262
+        height: 287
+      alignment: 9
+      pivot: {x: 0.58778626, y: -0.26132405}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d45615ce83fb01488a5df876a8df686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: means chart_00019
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 8
+        width: 256
+        height: 264
+      alignment: 9
+      pivot: {x: 0.57421875, y: -0.29924244}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1767cee520b3d484d9be6543af5a24ac
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: means chart_00020
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 1071
+        width: 261
+        height: 236
+      alignment: 9
+      pivot: {x: 0.5785441, y: -0.33898306}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e05b2788e0831de41bd8685e68d3482b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: means chart_00021
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 10
+        width: 252
+        height: 212
+      alignment: 9
+      pivot: {x: 0.5595238, y: -0.3773585}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49699d6061aa6664888743f7d5ac511e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: means chart_00022
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 36
+        width: 253
+        height: 187
+      alignment: 9
+      pivot: {x: 0.5533597, y: -0.4224599}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bfab47af55e2ec458f43ac2c04af166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: means chart_00023
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 1881
+        width: 248
+        height: 166
+      alignment: 9
+      pivot: {x: 0.57258064, y: -0.4759036}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cf9e40e5e4b2d34fadcf31ecccbc9e3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: means chart_00024
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1309
+        width: 257
+        height: 146
+      alignment: 9
+      pivot: {x: 0.52918285, y: -0.5479452}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb601e5d99c0df14180aea031180c846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: means chart_00025
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 1744
+        width: 245
+        height: 135
+      alignment: 9
+      pivot: {x: 0.55510205, y: -0.58518517}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0a4fa8fa6e806f4cb70fcb7deb42d10
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: means chart_00026
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 8
+        width: 171
+        height: 96
+      alignment: 9
+      pivot: {x: 0.7719298, y: -0.84375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7743cf00ac0ded4592dbb566b18c2c7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: means chart_00027
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 912
+        width: 176
+        height: 76
+      alignment: 9
+      pivot: {x: 0.78977275, y: -1.0657895}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6e33c9ce42ead449a4d84a9736d48cb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: means chart_00028
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 930
+        width: 157
+        height: 58
+      alignment: 9
+      pivot: {x: 0.7834395, y: -1.3448275}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f5a102c4a696524f9a2306874d472c3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: means chart_00029
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 1674
+        width: 123
+        height: 28
+      alignment: 9
+      pivot: {x: 0.75609756, y: -2.9642856}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c90fdd3ca1b48644c9d95e4b4fa3e178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: means chart_00030
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 1669
+        width: 6
+        height: 18
+      alignment: 9
+      pivot: {x: -4.1666665, y: -4.388889}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7dfe969c7a25844c96cf6f4a0bb94c4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: means chart_00031
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 1292
+        width: 1
+        height: 1
+      alignment: 9
+      pivot: {x: 640, y: -639}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09b78493961395846919dc2d6bf56fd0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: means chart_00032
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 1292
+        width: 1
+        height: 1
+      alignment: 9
+      pivot: {x: 640, y: -639}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcbbd324ebffede4cab89761e85b7148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: means chart_00033
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 1292
+        width: 1
+        height: 1
+      alignment: 9
+      pivot: {x: 640, y: -639}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a43d679120ea4d478eed260b4879b75
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: means chart_00034
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 1292
+        width: 1
+        height: 1
+      alignment: 9
+      pivot: {x: 640, y: -639}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c0bf9caa601ace4283fccd07bc5dd0f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: means chart_00035
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 1292
+        width: 1
+        height: 1
+      alignment: 9
+      pivot: {x: 640, y: -639}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34296e68ab2e3d14b8b011a051b6055e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: means chart_00036
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 1292
+        width: 1
+        height: 1
+      alignment: 9
+      pivot: {x: 640, y: -639}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a8490076a87b5048bb8f5fb26f7d706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: means chart_00037
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 1292
+        width: 1
+        height: 1
+      alignment: 9
+      pivot: {x: 640, y: -639}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad832d8d9622cdf4c98d74c72571ff59
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: means chart_00038
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 1292
+        width: 1
+        height: 1
+      alignment: 9
+      pivot: {x: 640, y: -639}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d81cadf1b660e7d4caa47c31ba4376b6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: means chart_00039
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 1292
+        width: 1
+        height: 1
+      alignment: 9
+      pivot: {x: 640, y: -639}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a10bf715aad422042b73a577d017792f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 541acc4ca73d3e043abd410a00abf746
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

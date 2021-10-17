@@ -1,0 +1,677 @@
+fileFormatVersion: 2
+guid: 539f54570a291f8448fc738e8f6a9500
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Curtains_Close_5
+    21300002: curtains2_pattern_closing_LASTFRAMES00028
+    21300004: curtains2_pattern_closing_LASTFRAMES00029
+    21300006: curtains2_pattern_closing_LASTFRAMES00030
+    21300008: curtains2_pattern_closing_LASTFRAMES00031
+    21300010: curtains2_pattern_closing_LASTFRAMES00032
+    21300012: curtains2_pattern_closing_LASTFRAMES00033
+    21300014: curtains2_pattern_closing_LASTFRAMES00034
+    21300016: curtains2_pattern_closing_LASTFRAMES00035
+    21300018: curtains2_pattern_closing_LASTFRAMES00036
+    21300020: curtains2_pattern_closing_LASTFRAMES00037
+    21300022: curtains2_pattern_closing_LASTFRAMES00038
+    21300024: curtains2_pattern_closing_LASTFRAMES00039
+    21300026: curtains2_pattern_closing_LASTFRAMES00040
+    21300028: curtains2_pattern_closing_LASTFRAMES00041
+    21300030: curtains2_pattern_closing_LASTFRAMES00042
+    21300032: curtains2_pattern_closing_LASTFRAMES00043
+    21300034: curtains2_pattern_closing_LASTFRAMES00044
+    21300036: curtains2_pattern_closing_LASTFRAMES00045
+    21300038: curtains2_pattern_closing_LASTFRAMES00046
+    21300040: curtains2_pattern_closing_LASTFRAMES00047
+    21300042: curtains2_pattern_closing_LASTFRAMES00048
+    21300044: curtains2_pattern_closing_LASTFRAMES00049
+    21300046: curtains2_pattern_closing_LASTFRAMES00050
+    21300048: curtains2_pattern_closing_LASTFRAMES00051
+    21300050: curtains2_pattern_closing_LASTFRAMES00052
+    21300052: curtains2_pattern_closing_LASTFRAMES00053
+    21300054: curtains2_pattern_closing_LASTFRAMES00054
+    21300056: curtains2_pattern_closing_LASTFRAMES00055
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: curtains2_pattern_closing_LASTFRAMES00028
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 3555
+        width: 960
+        height: 540
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 548d8cb0060a8484888552f501567305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: curtains2_pattern_closing_LASTFRAMES00029
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 3555
+        width: 960
+        height: 540
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0997f9d0296420742b536a202f5432e3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: curtains2_pattern_closing_LASTFRAMES00030
+      rect:
+        serializedVersion: 2
+        x: 1925
+        y: 3555
+        width: 960
+        height: 540
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98ffc5a40f5df1c4fa71c16be69db873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: curtains2_pattern_closing_LASTFRAMES00031
+      rect:
+        serializedVersion: 2
+        x: 2887
+        y: 3555
+        width: 960
+        height: 540
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c66091363fb2e2b49866eae073d8b264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: curtains2_pattern_closing_LASTFRAMES00032
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 3013
+        width: 960
+        height: 540
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b62fc08eab973c419dcb7f6e5e93b28
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: curtains2_pattern_closing_LASTFRAMES00033
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 3013
+        width: 960
+        height: 540
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1359f03bf3220c44399de5a380c17405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: curtains2_pattern_closing_LASTFRAMES00034
+      rect:
+        serializedVersion: 2
+        x: 1925
+        y: 3013
+        width: 960
+        height: 540
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a087d118ae33adc449af73034737ecae
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: curtains2_pattern_closing_LASTFRAMES00035
+      rect:
+        serializedVersion: 2
+        x: 2887
+        y: 3013
+        width: 960
+        height: 540
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d949d9b7c45081f49a09baca7d6e54cf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: curtains2_pattern_closing_LASTFRAMES00036
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2471
+        width: 960
+        height: 540
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edf8b8527dbd39e48abd1ae66800118c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: curtains2_pattern_closing_LASTFRAMES00037
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1929
+        width: 960
+        height: 540
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e93a28e1bb25ee5449beccf92823f4cf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: curtains2_pattern_closing_LASTFRAMES00038
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1387
+        width: 960
+        height: 540
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0027433db754c604ba2d3c5fba9b9f7a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: curtains2_pattern_closing_LASTFRAMES00039
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 845
+        width: 960
+        height: 540
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83233a47053f38e49b413c872c51e13d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: curtains2_pattern_closing_LASTFRAMES00040
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 303
+        width: 960
+        height: 540
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bdfc7aad003872479f03784c2f9484a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: curtains2_pattern_closing_LASTFRAMES00041
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 2471
+        width: 960
+        height: 540
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d6ed14bb31ce674b8ba79194c5f89b6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: curtains2_pattern_closing_LASTFRAMES00042
+      rect:
+        serializedVersion: 2
+        x: 1925
+        y: 2471
+        width: 960
+        height: 540
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4c4d4b57875efd4caf8371939a0390e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: curtains2_pattern_closing_LASTFRAMES00043
+      rect:
+        serializedVersion: 2
+        x: 2887
+        y: 2471
+        width: 960
+        height: 540
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 815c089f3327ad240bf2e4418c33d99f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: curtains2_pattern_closing_LASTFRAMES00044
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 1929
+        width: 960
+        height: 540
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2e248acc6143bb408edee1a5bbd4201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: curtains2_pattern_closing_LASTFRAMES00045
+      rect:
+        serializedVersion: 2
+        x: 1925
+        y: 1929
+        width: 960
+        height: 540
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff0013fd28cce2a48af81e1b66a0bc1e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: curtains2_pattern_closing_LASTFRAMES00046
+      rect:
+        serializedVersion: 2
+        x: 2887
+        y: 1929
+        width: 960
+        height: 540
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75f2e48e73e78554292e0eedbff201e4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: curtains2_pattern_closing_LASTFRAMES00047
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 1387
+        width: 960
+        height: 540
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e4981741a1e46b45b8028c50dc62aa1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: curtains2_pattern_closing_LASTFRAMES00048
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 845
+        width: 960
+        height: 540
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efd51bb1995071349a1e9956596dd970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: curtains2_pattern_closing_LASTFRAMES00049
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 303
+        width: 960
+        height: 540
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82a01eaa033eb62429e1d09dfe608b45
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: curtains2_pattern_closing_LASTFRAMES00050
+      rect:
+        serializedVersion: 2
+        x: 1925
+        y: 1387
+        width: 960
+        height: 540
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e8ed96876f72e0499b0fc26f2699015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: curtains2_pattern_closing_LASTFRAMES00051
+      rect:
+        serializedVersion: 2
+        x: 2887
+        y: 1387
+        width: 960
+        height: 540
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 984361e1616833148907e640ea98fd1c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: curtains2_pattern_closing_LASTFRAMES00052
+      rect:
+        serializedVersion: 2
+        x: 1925
+        y: 845
+        width: 960
+        height: 540
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd3354987e15ca34880bd7c946885728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: curtains2_pattern_closing_LASTFRAMES00053
+      rect:
+        serializedVersion: 2
+        x: 2887
+        y: 845
+        width: 960
+        height: 540
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf93e4fab9937d146bee4b9065cef105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: curtains2_pattern_closing_LASTFRAMES00054
+      rect:
+        serializedVersion: 2
+        x: 1925
+        y: 303
+        width: 960
+        height: 540
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 755bab967fa11e74792715689034522b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: curtains2_pattern_closing_LASTFRAMES00055
+      rect:
+        serializedVersion: 2
+        x: 2887
+        y: 303
+        width: 960
+        height: 540
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ee4b45ef09e3a746bc3435abab0c734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 24999deec481dc3448877948e0cc65cc
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

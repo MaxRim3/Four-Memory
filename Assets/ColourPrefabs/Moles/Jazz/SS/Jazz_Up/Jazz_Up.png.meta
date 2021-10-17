@@ -1,0 +1,1183 @@
+fileFormatVersion: 2
+guid: 0aae4201a55cdcb40a4b702500263b3c
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Jazz_Up
+    21300002: JazzUp_00000
+    21300004: JazzUp_00001
+    21300006: JazzUp_00002
+    21300008: JazzUp_00003
+    21300010: JazzUp_00004
+    21300012: JazzUp_00005
+    21300014: JazzUp_00006
+    21300016: JazzUp_00007
+    21300018: JazzUp_00008
+    21300020: JazzUp_00009
+    21300022: JazzUp_00010
+    21300024: JazzUp_00011
+    21300026: JazzUp_00012
+    21300028: JazzUp_00013
+    21300030: JazzUp_00014
+    21300032: JazzUp_00015
+    21300034: JazzUp_00016
+    21300036: JazzUp_00017
+    21300038: JazzUp_00018
+    21300040: JazzUp_00019
+    21300042: JazzUp_00020
+    21300044: JazzUp_00021
+    21300046: JazzUp_00022
+    21300048: JazzUp_00023
+    21300050: JazzUp_00024
+    21300052: JazzUp_00025
+    21300054: JazzUp_00026
+    21300056: JazzUp_00027
+    21300058: JazzUp_00028
+    21300060: JazzUp_00029
+    21300062: JazzUp_00030
+    21300064: JazzUp_00031
+    21300066: JazzUp_00032
+    21300068: JazzUp_00033
+    21300070: JazzUp_00034
+    21300072: JazzUp_00035
+    21300074: JazzUp_00036
+    21300076: JazzUp_00037
+    21300078: JazzUp_00038
+    21300080: JazzUp_00039
+    21300082: JazzUp_00040
+    21300084: JazzUp_00041
+    21300086: JazzUp_00042
+    21300088: JazzUp_00043
+    21300090: JazzUp_00044
+    21300092: JazzUp_00045
+    21300094: JazzUp_00046
+    21300096: JazzUp_00047
+    21300098: JazzUp_00048
+    21300100: JazzUp_00049
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: JazzUp_00000
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 1756
+        width: 1
+        height: 1
+      alignment: 9
+      pivot: {x: 640, y: -639}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 089b650bc1e02b042b483cfcd7452699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JazzUp_00001
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 1756
+        width: 1
+        height: 1
+      alignment: 9
+      pivot: {x: 640, y: -639}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d06cb0a0ad3d5845b8c726ee5721691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JazzUp_00002
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 1756
+        width: 1
+        height: 1
+      alignment: 9
+      pivot: {x: 640, y: -639}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96b8270cb10ec33438df9e8dcc28186c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JazzUp_00003
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 1756
+        width: 1
+        height: 1
+      alignment: 9
+      pivot: {x: 640, y: -639}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bac523d7c0ed964ba110182f5ce4f22
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JazzUp_00004
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 1756
+        width: 1
+        height: 1
+      alignment: 9
+      pivot: {x: 640, y: -639}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e145d140004c1284782c7ec053eccdd0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JazzUp_00005
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 1756
+        width: 1
+        height: 1
+      alignment: 9
+      pivot: {x: 640, y: -639}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0df1a772c63f11644a10e67918c1791e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JazzUp_00006
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 1756
+        width: 1
+        height: 1
+      alignment: 9
+      pivot: {x: 640, y: -639}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b72922f99b76424cbc01f1bf5ebe720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JazzUp_00007
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 1756
+        width: 1
+        height: 1
+      alignment: 9
+      pivot: {x: 640, y: -639}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd5ad56e4b6129843a652427aac78761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JazzUp_00008
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 1756
+        width: 1
+        height: 1
+      alignment: 9
+      pivot: {x: 640, y: -639}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8557f84cf91ac64280081927bf344f1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JazzUp_00009
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 1756
+        width: 1
+        height: 1
+      alignment: 9
+      pivot: {x: 640, y: -639}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2f1ae11040989d4689f59aea3253ac4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JazzUp_00010
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 1756
+        width: 1
+        height: 1
+      alignment: 9
+      pivot: {x: 640, y: -639}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32c704f15a83d0540aea77ec7c3ec0c9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JazzUp_00011
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 1901
+        width: 151
+        height: 29
+      alignment: 9
+      pivot: {x: 0.5231788, y: -2.6551723}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e048416a9108df4b898b392650ffd1c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JazzUp_00012
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 1932
+        width: 172
+        height: 48
+      alignment: 9
+      pivot: {x: 0.622093, y: -1.6041666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32eebb3e93288bb43b488fea8e60af73
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JazzUp_00013
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 1982
+        width: 181
+        height: 65
+      alignment: 9
+      pivot: {x: 0.519337, y: -1.2307693}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0c2933f819bf3348a5cb29fb99fd3c5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JazzUp_00014
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 1667
+        width: 204
+        height: 84
+      alignment: 9
+      pivot: {x: 0.50490195, y: -0.95238096}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27fa7b15e69d3d446835ed534b811036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JazzUp_00015
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 645
+        width: 231
+        height: 105
+      alignment: 9
+      pivot: {x: 0.4891775, y: -0.74285716}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 741f07b5087cd9f478a3bd04ae0801cd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JazzUp_00016
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 581
+        width: 223
+        height: 125
+      alignment: 9
+      pivot: {x: 0.4573991, y: -0.624}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebf8850c3202dbb4b86144c84046222e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JazzUp_00017
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 1006
+        width: 242
+        height: 168
+      alignment: 9
+      pivot: {x: 0.42975205, y: -0.31547618}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb371279556e08f41a4270c4841a3c9f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JazzUp_00018
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 719
+        width: 244
+        height: 184
+      alignment: 9
+      pivot: {x: 0.41393444, y: -0.29347825}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8315d48fc452844383f9a8de212acd4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JazzUp_00019
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 714
+        width: 235
+        height: 187
+      alignment: 9
+      pivot: {x: 0.42553192, y: -0.36898395}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cb6f7b8dbe6cd242a1ffadd9923eec3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JazzUp_00020
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 516
+        width: 230
+        height: 196
+      alignment: 9
+      pivot: {x: 0.42608696, y: -0.39285713}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6241862a121310a42afa0aa1e59e3a7a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JazzUp_00021
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 708
+        width: 249
+        height: 210
+      alignment: 9
+      pivot: {x: 0.47791165, y: -0.3857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9536ddf7aafebb844a69f081c0711548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JazzUp_00022
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 485
+        width: 243
+        height: 232
+      alignment: 9
+      pivot: {x: 0.47736627, y: -0.34913793}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3e3ad43c249fba449692aa8e4af45e6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JazzUp_00023
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1188
+        width: 258
+        height: 253
+      alignment: 9
+      pivot: {x: 0.49612403, y: -0.31620553}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 111c8b495fd2b374da44fb4ade5b7a76
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JazzUp_00024
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 1181
+        width: 259
+        height: 267
+      alignment: 9
+      pivot: {x: 0.5057915, y: -0.29962546}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9e56359da271d64daab495f98c7bfe0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JazzUp_00025
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 1753
+        width: 271
+        height: 294
+      alignment: 9
+      pivot: {x: 0.5202952, y: -0.2585034}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb48797275d90ef49a64e3a6c8970c51
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JazzUp_00026
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 1453
+        width: 268
+        height: 298
+      alignment: 9
+      pivot: {x: 0.5335821, y: -0.26845637}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae57e66c6010fcf4d9768303ae968a9b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JazzUp_00027
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 1450
+        width: 269
+        height: 307
+      alignment: 9
+      pivot: {x: 0.535316, y: -0.26384366}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad2ac489dd794324fabf08e8f80474b1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JazzUp_00028
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1741
+        width: 272
+        height: 306
+      alignment: 9
+      pivot: {x: 0.50735295, y: -0.25816995}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae26ce5648aa49d4f823be84580759f1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JazzUp_00029
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1443
+        width: 269
+        height: 296
+      alignment: 9
+      pivot: {x: 0.5204461, y: -0.2668919}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85695bccaec9bc9419fcd45502817069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JazzUp_00030
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 1759
+        width: 272
+        height: 288
+      alignment: 9
+      pivot: {x: 0.5257353, y: -0.2777778}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c92b7197526c2624c943362c7b1641cb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JazzUp_00031
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 905
+        width: 256
+        height: 281
+      alignment: 9
+      pivot: {x: 0.50390625, y: -0.2846975}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41813803ec323e14982d91413f8163e7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JazzUp_00032
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 1176
+        width: 266
+        height: 275
+      alignment: 9
+      pivot: {x: 0.518797, y: -0.3018182}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5c50c1737a6bc64fa58832cc2e5c8be
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JazzUp_00033
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 903
+        width: 249
+        height: 271
+      alignment: 9
+      pivot: {x: 0.51004016, y: -0.2915129}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0a6172ffcc43a444b4a6404dc79a952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JazzUp_00034
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 920
+        width: 252
+        height: 259
+      alignment: 9
+      pivot: {x: 0.51984125, y: -0.32046333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8212e53373bc4d948b8eb284b522849b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JazzUp_00035
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 752
+        width: 237
+        height: 252
+      alignment: 9
+      pivot: {x: 0.4978903, y: -0.31746033}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc733dbccba64f84594c818379479f53
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JazzUp_00036
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 752
+        width: 237
+        height: 252
+      alignment: 9
+      pivot: {x: 0.4978903, y: -0.31746033}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0014f8f29dc0de44595a278cd338607d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JazzUp_00037
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 752
+        width: 237
+        height: 252
+      alignment: 9
+      pivot: {x: 0.4978903, y: -0.31746033}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 219b6a1226ec8ab448f6ec4e29780535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JazzUp_00038
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 752
+        width: 237
+        height: 252
+      alignment: 9
+      pivot: {x: 0.4978903, y: -0.31746033}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a99c5af80e30a64f8321ba0e817ff19
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JazzUp_00039
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 752
+        width: 237
+        height: 252
+      alignment: 9
+      pivot: {x: 0.4978903, y: -0.31746033}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 582b14d66c6f84a469211dd4ec929aa6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JazzUp_00040
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 1756
+        width: 1
+        height: 1
+      alignment: 9
+      pivot: {x: 640, y: -639}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e801f8c2b7925e42a4cb72d5f3b0ce3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JazzUp_00041
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 1756
+        width: 1
+        height: 1
+      alignment: 9
+      pivot: {x: 640, y: -639}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a869138446660b742963c96ca3476189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JazzUp_00042
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 1756
+        width: 1
+        height: 1
+      alignment: 9
+      pivot: {x: 640, y: -639}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d01cca81cfb4a254faf2d1f98e8916d6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JazzUp_00043
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 1756
+        width: 1
+        height: 1
+      alignment: 9
+      pivot: {x: 640, y: -639}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2210af992d972744a73c7f0efa6105c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JazzUp_00044
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 1756
+        width: 1
+        height: 1
+      alignment: 9
+      pivot: {x: 640, y: -639}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f9d618ddec1d3549a698e8b8a58e09b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JazzUp_00045
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 1756
+        width: 1
+        height: 1
+      alignment: 9
+      pivot: {x: 640, y: -639}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0238349ee29442d4dade1e106cef04b1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JazzUp_00046
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 1756
+        width: 1
+        height: 1
+      alignment: 9
+      pivot: {x: 640, y: -639}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d726e73b026cef49b1bfdea252b6d05
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JazzUp_00047
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 1756
+        width: 1
+        height: 1
+      alignment: 9
+      pivot: {x: 640, y: -639}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3873dfa7172eddd40a4f903275cb596f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JazzUp_00048
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 1756
+        width: 1
+        height: 1
+      alignment: 9
+      pivot: {x: 640, y: -639}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7fef84df94e86e42a4c65cdefa0a7ec
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JazzUp_00049
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 1756
+        width: 1
+        height: 1
+      alignment: 9
+      pivot: {x: 640, y: -639}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 909baffb1001e8b41842d3297ab5b959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 1a294a772f9a3754aac0ee1f92cc1a0f
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

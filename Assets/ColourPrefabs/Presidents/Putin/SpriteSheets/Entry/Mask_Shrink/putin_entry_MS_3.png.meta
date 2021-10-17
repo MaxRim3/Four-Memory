@@ -1,0 +1,593 @@
+fileFormatVersion: 2
+guid: fa5e941e6df3af648bbc3d262f1437f9
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: putin_entry_MS_3
+    21300002: putin_entry_Mask_Shrink00240
+    21300004: putin_entry_Mask_Shrink00241
+    21300006: putin_entry_Mask_Shrink00242
+    21300008: putin_entry_Mask_Shrink00243
+    21300010: putin_entry_Mask_Shrink00244
+    21300012: putin_entry_Mask_Shrink00245
+    21300014: putin_entry_Mask_Shrink00246
+    21300016: putin_entry_Mask_Shrink00247
+    21300018: putin_entry_Mask_Shrink00248
+    21300020: putin_entry_Mask_Shrink00249
+    21300022: putin_entry_Mask_Shrink00250
+    21300024: putin_entry_Mask_Shrink00251
+    21300026: putin_entry_Mask_Shrink00252
+    21300028: putin_entry_Mask_Shrink00253
+    21300030: putin_entry_Mask_Shrink00254
+    21300032: putin_entry_Mask_Shrink00255
+    21300034: putin_entry_Mask_Shrink00256
+    21300036: putin_entry_Mask_Shrink00257
+    21300038: putin_entry_Mask_Shrink00258
+    21300040: putin_entry_Mask_Shrink00259
+    21300042: putin_entry_Mask_Shrink00260
+    21300044: putin_entry_Mask_Shrink00261
+    21300046: putin_entry_Mask_Shrink00262
+    21300048: putin_entry_Mask_Shrink00263
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: putin_entry_Mask_Shrink00240
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 3391
+        width: 991
+        height: 704
+      alignment: 9
+      pivot: {x: 0.4702321, y: 0.5113636}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d50be5f28259d8046a582e59dd6271b8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: putin_entry_Mask_Shrink00241
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 3389
+        width: 987
+        height: 706
+      alignment: 9
+      pivot: {x: 0.47112462, y: 0.509915}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 808b93ae9ac658c459b8eb776a168c2d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: putin_entry_Mask_Shrink00242
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2686
+        width: 979
+        height: 703
+      alignment: 9
+      pivot: {x: 0.47293156, y: 0.51209104}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 917775b410d7a6245b8c9c78c43e675f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: putin_entry_Mask_Shrink00243
+      rect:
+        serializedVersion: 2
+        x: 1983
+        y: 3397
+        width: 973
+        height: 698
+      alignment: 9
+      pivot: {x: 0.4717369, y: 0.5157593}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2da411a3cbb82d46a375cec5716eb19
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: putin_entry_Mask_Shrink00244
+      rect:
+        serializedVersion: 2
+        x: 2958
+        y: 3399
+        width: 968
+        height: 696
+      alignment: 9
+      pivot: {x: 0.47107437, y: 0.51724136}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3aa2167edcdf22439a763e394a10d02
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: putin_entry_Mask_Shrink00245
+      rect:
+        serializedVersion: 2
+        x: 2958
+        y: 2703
+        width: 959
+        height: 694
+      alignment: 9
+      pivot: {x: 0.47236705, y: 0.518732}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddc220883503ddb419990188e7b48f97
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: putin_entry_Mask_Shrink00246
+      rect:
+        serializedVersion: 2
+        x: 1983
+        y: 2702
+        width: 950
+        height: 693
+      alignment: 9
+      pivot: {x: 0.4705263, y: 0.5194805}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdf266f084be5ef42bfef18524a55a75
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: putin_entry_Mask_Shrink00247
+      rect:
+        serializedVersion: 2
+        x: 2935
+        y: 2014
+        width: 945
+        height: 687
+      alignment: 9
+      pivot: {x: 0.47195768, y: 0.52401745}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f74cedbfa4eebc24d9fbdd87911b323e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: putin_entry_Mask_Shrink00248
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 2702
+        width: 937
+        height: 685
+      alignment: 9
+      pivot: {x: 0.47171825, y: 0.52554744}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 841c04a3245e7cc479a44e6a84fcef1a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: putin_entry_Mask_Shrink00249
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 2017
+        width: 935
+        height: 683
+      alignment: 9
+      pivot: {x: 0.47272727, y: 0.5270864}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8700ed5729858844a8e8384019cb369e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: putin_entry_Mask_Shrink00250
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2007
+        width: 924
+        height: 677
+      alignment: 9
+      pivot: {x: 0.47186148, y: 0.5317578}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 670ad74e4f2bf634e88b70838d934e12
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: putin_entry_Mask_Shrink00251
+      rect:
+        serializedVersion: 2
+        x: 1919
+        y: 2024
+        width: 919
+        height: 676
+      alignment: 9
+      pivot: {x: 0.4733406, y: 0.5325444}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bfa1d80986eb0b4f8401babf3518e70
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: putin_entry_Mask_Shrink00252
+      rect:
+        serializedVersion: 2
+        x: 1919
+        y: 1350
+        width: 912
+        height: 672
+      alignment: 9
+      pivot: {x: 0.4725877, y: 0.53571427}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cefebf005975bac4e90d5030e1e5f235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: putin_entry_Mask_Shrink00253
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 1339
+        width: 904
+        height: 676
+      alignment: 9
+      pivot: {x: 0.47345132, y: 0.5325444}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6759ef5c242ff5c4ab03283979eafbba
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: putin_entry_Mask_Shrink00254
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1337
+        width: 898
+        height: 668
+      alignment: 9
+      pivot: {x: 0.47216037, y: 0.53892213}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42b6c1f614e30ee4db126343c9072ddc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: putin_entry_Mask_Shrink00255
+      rect:
+        serializedVersion: 2
+        x: 2833
+        y: 1346
+        width: 891
+        height: 666
+      alignment: 9
+      pivot: {x: 0.4725028, y: 0.5405405}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f040e23ded54304aba7fea12e40d7e5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: putin_entry_Mask_Shrink00256
+      rect:
+        serializedVersion: 2
+        x: 1833
+        y: 680
+        width: 884
+        height: 668
+      alignment: 9
+      pivot: {x: 0.47285068, y: 0.53892213}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d41fbd4dae87f2c4bbde494cf528e69a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: putin_entry_Mask_Shrink00257
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 668
+        width: 878
+        height: 669
+      alignment: 9
+      pivot: {x: 0.4715262, y: 0.5381166}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcbe26ac6f0a91d408f6167ada5708c0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: putin_entry_Mask_Shrink00258
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 673
+        width: 871
+        height: 662
+      alignment: 9
+      pivot: {x: 0.4730195, y: 0.5438067}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44c18148321147c47baacd6cf7c33afb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: putin_entry_Mask_Shrink00259
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 10
+        width: 863
+        height: 661
+      alignment: 9
+      pivot: {x: 0.4727694, y: 0.54462934}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22f22e2a63b5d9e46a906bf97fe7b2b7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: putin_entry_Mask_Shrink00260
+      rect:
+        serializedVersion: 2
+        x: 1781
+        y: 20
+        width: 856
+        height: 658
+      alignment: 9
+      pivot: {x: 0.47313085, y: 0.54711246}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 705fdb2b19e491141867d425b5ebaf98
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: putin_entry_Mask_Shrink00261
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 6
+        width: 851
+        height: 660
+      alignment: 9
+      pivot: {x: 0.47238544, y: 0.54545456}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a55d9e04d37c64409c8512d4f79ea89
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: putin_entry_Mask_Shrink00262
+      rect:
+        serializedVersion: 2
+        x: 2639
+        y: 22
+        width: 843
+        height: 656
+      alignment: 9
+      pivot: {x: 0.47212335, y: 0.5487805}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4236cf2dbd510e408cbfa03e5de3fe0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: putin_entry_Mask_Shrink00263
+      rect:
+        serializedVersion: 2
+        x: 2719
+        y: 690
+        width: 835
+        height: 654
+      alignment: 9
+      pivot: {x: 0.4730539, y: 0.5504587}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf285863a858d0043b2cf7ab8918cb4b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: f57b7d85cd5cb2e45a8ebc78722dd16f
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

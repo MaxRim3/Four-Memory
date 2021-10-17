@@ -1,0 +1,312 @@
+version: 2
+importPivots: 1
+tpsheetFileNames:
+- Assets/codeandweb.com/Example/SpriteSheet/sprites.tpsheet
+- Assets/ColourPrefabs/Curtains/Close/Curtains_Close_1.tpsheet
+- Assets/ColourPrefabs/Curtains/Close/Curtains_Close_2.tpsheet
+- Assets/ColourPrefabs/Curtains/Close/Curtains_Close_3.tpsheet
+- Assets/ColourPrefabs/Curtains/Close/Curtains_Close_4.tpsheet
+- Assets/ColourPrefabs/Curtains/Close/Curtains_Close_5.tpsheet
+- Assets/ColourPrefabs/Curtains/Close/Curtains_Close_6.tpsheet
+- Assets/ColourPrefabs/Curtains/Close/Curtains_Close_7.tpsheet
+- Assets/ColourPrefabs/Curtains/Curtains_Open_1.tpsheet
+- Assets/ColourPrefabs/Curtains/Curtains_Open_2.tpsheet
+- Assets/ColourPrefabs/Curtains/Curtains_Open_3.tpsheet
+- Assets/ColourPrefabs/Moles/Baker/SpriteSheet/Baker_Down/Baker_Down_HD.tpsheet
+- Assets/ColourPrefabs/Moles/Baker/SpriteSheet/Baker_Hit/Baker_Hit_HD.tpsheet
+- Assets/ColourPrefabs/Moles/Baker/SpriteSheet/Baker_Idle/Baker_Idle_SS.tpsheet
+- Assets/ColourPrefabs/Moles/Baker/SpriteSheet/Baker_Idle/Baker_Idle_SS_2.tpsheet
+- Assets/ColourPrefabs/Moles/Baker/SpriteSheet/Baker_Up/Baker_Up_HD.tpsheet
+- Assets/ColourPrefabs/Moles/Child/Child_SS/Child_Down/IdleChild_Down_SS_1_HD.tpsheet
+- Assets/ColourPrefabs/Moles/Child/Child_SS/Child_Hit/IdleChild_Hit_SS_1_HD.tpsheet
+- Assets/ColourPrefabs/Moles/Child/Child_SS/Child_Idle/IdleChild_Idle_SS_1_HD.tpsheet
+- Assets/ColourPrefabs/Moles/Child/Child_SS/Child_Up/Child_Up_HD.tpsheet
+- Assets/ColourPrefabs/Moles/Farmer/SS/FarmerDown/Farmer_down_HD.tpsheet
+- Assets/ColourPrefabs/Moles/Farmer/SS/FarmerHit/Farmer_hit_HD.tpsheet
+- Assets/ColourPrefabs/Moles/Farmer/SS/FarmerIdle/Farmer_Idle_1.tpsheet
+- Assets/ColourPrefabs/Moles/Farmer/SS/FarmerIdle/Farmer_Idle_2.tpsheet
+- Assets/ColourPrefabs/Moles/Farmer/SS/FarmerUp/Farmer_Up.tpsheet
+- Assets/ColourPrefabs/Moles/Jazz/SS/Jazz_Down/Idle_5859_Down_All_SS_1.tpsheet
+- Assets/ColourPrefabs/Moles/Jazz/SS/Jazz_Hit/Jazz_Hit.tpsheet
+- Assets/ColourPrefabs/Moles/Jazz/SS/Jazz_Idle/Idle_5859_Down_All_SS_1.tpsheet
+- Assets/ColourPrefabs/Moles/Jazz/SS/Jazz_Idle/Idle_SS_1.tpsheet
+- Assets/ColourPrefabs/Moles/Jazz/SS/Jazz_Up/Jazz_Up.tpsheet
+- Assets/ColourPrefabs/Moles/PoshLady/PL_SS/PL_Down/PoshLady_Down_SS_1_HD.tpsheet
+- Assets/ColourPrefabs/Moles/PoshLady/PL_SS/PL_Hit/PoshLady_Hit_SS_1_HD.tpsheet
+- Assets/ColourPrefabs/Moles/PoshLady/PL_SS/PL_Idle/PoshLady_Idle_SS_1_HD.tpsheet
+- Assets/ColourPrefabs/Moles/PoshLady/PL_SS/PL_Idle/PoshLady_Idle_SS_2_HD.tpsheet
+- Assets/ColourPrefabs/Moles/PoshLady/PL_SS/PL_Up/PoshLady_Up_SS_1_HD.tpsheet
+- Assets/ColourPrefabs/Moles/Tree/Tree_SS_5.tpsheet
+- Assets/ColourPrefabs/Moles/Tree/Tree_SS_6.tpsheet
+- Assets/ColourPrefabs/Moles/Zoo/Zoo_SS/Zoo_Down/zoo_down_SS.tpsheet
+- Assets/ColourPrefabs/Moles/Zoo/Zoo_SS/Zoo_Hit/zoo_hit_SS.tpsheet
+- Assets/ColourPrefabs/Moles/Zoo/Zoo_SS/Zoo_Idle/zoo_Idle.tpsheet
+- Assets/ColourPrefabs/Moles/Zoo/Zoo_SS/Zoo_Idle/zoo_Idle_2.tpsheet
+- Assets/ColourPrefabs/Moles/Zoo/Zoo_SS/Zoo_Up/zoo_up_SS.tpsheet
+- Assets/ColourPrefabs/Presidents/Putin/SpriteSheets/Entry/Mask_Shrink/putin_entry_MS_1.tpsheet
+- Assets/ColourPrefabs/Presidents/Putin/SpriteSheets/Entry/Mask_Shrink/putin_entry_MS_2.tpsheet
+- Assets/ColourPrefabs/Presidents/Putin/SpriteSheets/Entry/Mask_Shrink/putin_entry_MS_3.tpsheet
+- Assets/ColourPrefabs/Presidents/Putin/SpriteSheets/Entry/Mask_Shrink/putin_entry_MS_4.tpsheet
+- Assets/ColourPrefabs/Presidents/Putin/SpriteSheets/Entry/Mask_Shrink/putin_entry_MS_5.tpsheet
+- Assets/ColourPrefabs/Presidents/Putin/SpriteSheets/Entry/New/Putin_Entry_Door_New_1.tpsheet
+- Assets/ColourPrefabs/Presidents/Putin/SpriteSheets/Entry/New/Putin_Entry_Door_New_2.tpsheet
+- Assets/ColourPrefabs/Presidents/Putin/SpriteSheets/Entry/New/Putin_Entry_Door_New_246-255_Plus_Last.tpsheet
+- Assets/ColourPrefabs/Presidents/Putin/SpriteSheets/Entry/New/Putin_Entry_Door_New_3.tpsheet
+- Assets/ColourPrefabs/Presidents/Putin/SpriteSheets/Entry/New/Putin_Entry_Door_New_4.tpsheet
+- Assets/ColourPrefabs/Presidents/Putin/SpriteSheets/Entry/New/Putin_Entry_Door_New_5.tpsheet
+- Assets/ColourPrefabs/Presidents/Putin/SpriteSheets/Entry/New/Putin_Entry_Door_New_6.tpsheet
+- Assets/ColourPrefabs/Presidents/Putin/SpriteSheets/Exit/Grow_Exit/puting_exit_grow.tpsheet
+- Assets/ColourPrefabs/Presidents/Putin/SpriteSheets/Exit/Grow_Exit/puting_exit_grow_1.tpsheet
+- Assets/ColourPrefabs/Presidents/Putin/SpriteSheets/Exit/Grow_Exit/puting_exit_grow_3.tpsheet
+- Assets/ColourPrefabs/Presidents/Putin/SpriteSheets/Exit/Grow_Exit/puting_exit_grow_4.tpsheet
+- Assets/ColourPrefabs/Presidents/Putin/SpriteSheets/Exit/Grow_Exit/puting_exit_grow_5.tpsheet
+- Assets/ColourPrefabs/Presidents/Putin/SpriteSheets/Exit/Grow_Exit/puting_exit_grow_6.tpsheet
+- Assets/ColourPrefabs/Presidents/Putin/SpriteSheets/Exit/New/Putin_Exit_Door_1_New.tpsheet
+- Assets/ColourPrefabs/Presidents/Putin/SpriteSheets/Exit/New/Putin_Exit_Door_New_2.tpsheet
+- Assets/ColourPrefabs/Presidents/Putin/SpriteSheets/Exit/New/Putin_Exit_Door_New_7.tpsheet
+- Assets/ColourPrefabs/Presidents/Putin/SpriteSheets/Exit/putin_exit_1.tpsheet
+- Assets/ColourPrefabs/Presidents/Putin/SpriteSheets/Exit/putin_exit_2.tpsheet
+- Assets/ColourPrefabs/Presidents/Putin/SpriteSheets/Exit/putin_exit_2_In_Between.tpsheet
+- Assets/ColourPrefabs/Presidents/Putin/SpriteSheets/Exit/putin_exit_3.tpsheet
+- Assets/ColourPrefabs/Presidents/Putin/SpriteSheets/Exit/putin_exit_4.tpsheet
+- Assets/ColourPrefabs/Presidents/Putin/SpriteSheets/Exit/putin_exit_5.tpsheet
+- Assets/ColourPrefabs/Presidents/Putin/SpriteSheets/Exit/putin_exit_6.tpsheet
+- Assets/ColourPrefabs/Presidents/Putin/SpriteSheets/Exit/putin_exit_7.tpsheet
+- Assets/ColourPrefabs/Presidents/Putin/SpriteSheets/Wrong/Putin_Wrong_1.tpsheet
+- Assets/ColourPrefabs/Presidents/Putin/SpriteSheets/Wrong/Putin_Wrong_2.tpsheet
+- Assets/ColourPrefabs/Presidents/Queen/Queen_Entry/Queen_Entry_1.tpsheet
+- Assets/ColourPrefabs/Presidents/Queen/Queen_Entry/Queen_Entry_2.tpsheet
+- Assets/ColourPrefabs/Presidents/Queen/Queen_Entry/Queen_Entry_3.tpsheet
+- Assets/ColourPrefabs/Presidents/Queen/Queen_Entry/Queen_Entry_4.tpsheet
+- Assets/ColourPrefabs/Presidents/Queen/Queen_Entry/Queen_Entry_5.tpsheet
+- Assets/ColourPrefabs/Presidents/Queen/Queen_Exit/Queen_Exit_1.tpsheet
+- Assets/ColourPrefabs/Presidents/Queen/Queen_Exit/Queen_Exit_2.tpsheet
+- Assets/ColourPrefabs/Presidents/Queen/Queen_Exit/Queen_Exit_3.tpsheet
+- Assets/ColourPrefabs/Presidents/Queen/Queen_Exit/Queen_Exit_4.tpsheet
+- Assets/ColourPrefabs/Presidents/Queen/Queen_Exit/Queen_Exit_5.tpsheet
+- Assets/ColourPrefabs/Presidents/Queen/Queen_Idle/Queen_Idle_SS.tpsheet
+- Assets/ColourPrefabs/Presidents/Queen/Queen_Wrong/Queen_Idle_1.tpsheet
+- Assets/ColourPrefabs/Presidents/Queen/Queen_Wrong/Queen_Idle_2.tpsheet
+- Assets/ColourPrefabs/Presidents/Queen/Queen_Wrong/Queen_Idle_3.tpsheet
+- Assets/ColourPrefabs/Presidents/Trump/Trump_Entry/Trump_Entry_1.tpsheet
+- Assets/ColourPrefabs/Presidents/Trump/Trump_Entry/Trump_Entry_2.tpsheet
+- Assets/ColourPrefabs/Presidents/Trump/Trump_Entry/Trump_Entry_3.tpsheet
+- Assets/ColourPrefabs/Presidents/Trump/Trump_Entry/Trump_Entry_4.tpsheet
+- Assets/ColourPrefabs/Presidents/Trump/Trump_Entry/Trump_Entry_5.tpsheet
+- Assets/ColourPrefabs/Presidents/Trump/Trump_Entry/Trump_Entry_6.tpsheet
+- Assets/ColourPrefabs/Presidents/Trump/Trump_Entry/Trump_Entry_7.tpsheet
+- Assets/ColourPrefabs/Presidents/Trump/Trump_Entry/Trump_Entry_8.tpsheet
+- Assets/ColourPrefabs/Presidents/Trump/Trump_Exit/Trump_Exit_1.tpsheet
+- Assets/ColourPrefabs/Presidents/Trump/Trump_Exit/Trump_Exit_2.tpsheet
+- Assets/ColourPrefabs/Presidents/Trump/Trump_Exit/Trump_Exit_3.tpsheet
+- Assets/ColourPrefabs/Presidents/Trump/Trump_Exit/Trump_Exit_4.tpsheet
+- Assets/ColourPrefabs/Presidents/Trump/Trump_Wrong/Trump_Wrong_1.tpsheet
+- Assets/ColourPrefabs/Presidents/Trump/Trump_Wrong/Trump_Wrong_2.tpsheet
+- Assets/ColourPrefabs/Presidents/Trump/Trump_Wrong/Trump_Wrong_3.tpsheet
+textureFileNames:
+- Assets/codeandweb.com/Example/SpriteSheet/sprites.png
+- Assets/ColourPrefabs/Curtains/Close/Curtains_Close_1.png
+- Assets/ColourPrefabs/Curtains/Close/Curtains_Close_2.png
+- Assets/ColourPrefabs/Curtains/Close/Curtains_Close_3.png
+- Assets/ColourPrefabs/Curtains/Close/Curtains_Close_4.png
+- Assets/ColourPrefabs/Curtains/Close/Curtains_Close_5.png
+- Assets/ColourPrefabs/Curtains/Close/Curtains_Close_6.png
+- Assets/ColourPrefabs/Curtains/Close/Curtains_Close_7.png
+- Assets/ColourPrefabs/Curtains/Curtains_Open_1.png
+- Assets/ColourPrefabs/Curtains/Curtains_Open_2.png
+- Assets/ColourPrefabs/Curtains/Curtains_Open_3.png
+- Assets/ColourPrefabs/Moles/Baker/SpriteSheet/Baker_Down/Baker_Down_HD.png
+- Assets/ColourPrefabs/Moles/Baker/SpriteSheet/Baker_Hit/Baker_Hit_HD.png
+- Assets/ColourPrefabs/Moles/Baker/SpriteSheet/Baker_Idle/Baker_Idle_SS.png
+- Assets/ColourPrefabs/Moles/Baker/SpriteSheet/Baker_Idle/Baker_Idle_SS_2.png
+- Assets/ColourPrefabs/Moles/Baker/SpriteSheet/Baker_Up/Baker_Up_HD.png
+- Assets/ColourPrefabs/Moles/Child/Child_SS/Child_Down/IdleChild_Down_SS_1_HD.png
+- Assets/ColourPrefabs/Moles/Child/Child_SS/Child_Hit/IdleChild_Hit_SS_1_HD.png
+- Assets/ColourPrefabs/Moles/Child/Child_SS/Child_Idle/IdleChild_Idle_SS_1_HD.png
+- Assets/ColourPrefabs/Moles/Child/Child_SS/Child_Up/Child_Up_HD.png
+- Assets/ColourPrefabs/Moles/Farmer/SS/FarmerDown/Farmer_down_HD.png
+- Assets/ColourPrefabs/Moles/Farmer/SS/FarmerHit/Farmer_hit_HD.png
+- Assets/ColourPrefabs/Moles/Farmer/SS/FarmerIdle/Farmer_Idle_1.png
+- Assets/ColourPrefabs/Moles/Farmer/SS/FarmerIdle/Farmer_Idle_2.png
+- Assets/ColourPrefabs/Moles/Farmer/SS/FarmerUp/Farmer_Up.png
+- Assets/ColourPrefabs/Moles/Jazz/SS/Jazz_Down/Idle_5859_Down_All_SS_1.png
+- Assets/ColourPrefabs/Moles/Jazz/SS/Jazz_Hit/Jazz_Hit.png
+- Assets/ColourPrefabs/Moles/Jazz/SS/Jazz_Idle/Idle_5859_Down_All_SS_1.png
+- Assets/ColourPrefabs/Moles/Jazz/SS/Jazz_Idle/Idle_SS_1.png
+- Assets/ColourPrefabs/Moles/Jazz/SS/Jazz_Up/Jazz_Up.png
+- Assets/ColourPrefabs/Moles/PoshLady/PL_SS/PL_Down/PoshLady_Down_SS_1_HD.png
+- Assets/ColourPrefabs/Moles/PoshLady/PL_SS/PL_Hit/PoshLady_Hit_SS_1_HD.png
+- Assets/ColourPrefabs/Moles/PoshLady/PL_SS/PL_Idle/PoshLady_Idle_SS_1_HD.png
+- Assets/ColourPrefabs/Moles/PoshLady/PL_SS/PL_Idle/PoshLady_Idle_SS_2_HD.png
+- Assets/ColourPrefabs/Moles/PoshLady/PL_SS/PL_Up/PoshLady_Up_SS_1_HD.png
+- Assets/ColourPrefabs/Moles/Tree/Tree_SS_5.png
+- Assets/ColourPrefabs/Moles/Tree/Tree_SS_6.png
+- Assets/ColourPrefabs/Moles/Zoo/Zoo_SS/Zoo_Down/zoo_down_SS.png
+- Assets/ColourPrefabs/Moles/Zoo/Zoo_SS/Zoo_Hit/zoo_hit_SS.png
+- Assets/ColourPrefabs/Moles/Zoo/Zoo_SS/Zoo_Idle/zoo_Idle.png
+- Assets/ColourPrefabs/Moles/Zoo/Zoo_SS/Zoo_Idle/zoo_Idle_2.png
+- Assets/ColourPrefabs/Moles/Zoo/Zoo_SS/Zoo_Up/zoo_up_SS.png
+- Assets/ColourPrefabs/Presidents/Putin/SpriteSheets/Entry/Mask_Shrink/putin_entry_MS_1.png
+- Assets/ColourPrefabs/Presidents/Putin/SpriteSheets/Entry/Mask_Shrink/putin_entry_MS_2.png
+- Assets/ColourPrefabs/Presidents/Putin/SpriteSheets/Entry/Mask_Shrink/putin_entry_MS_3.png
+- Assets/ColourPrefabs/Presidents/Putin/SpriteSheets/Entry/Mask_Shrink/putin_entry_MS_4.png
+- Assets/ColourPrefabs/Presidents/Putin/SpriteSheets/Entry/Mask_Shrink/putin_entry_MS_5.png
+- Assets/ColourPrefabs/Presidents/Putin/SpriteSheets/Entry/New/Putin_Entry_Door_New_1.png
+- Assets/ColourPrefabs/Presidents/Putin/SpriteSheets/Entry/New/Putin_Entry_Door_New_2.png
+- Assets/ColourPrefabs/Presidents/Putin/SpriteSheets/Entry/New/Putin_Entry_Door_New_246-255_Plus_Last.png
+- Assets/ColourPrefabs/Presidents/Putin/SpriteSheets/Entry/New/Putin_Entry_Door_New_3.png
+- Assets/ColourPrefabs/Presidents/Putin/SpriteSheets/Entry/New/Putin_Entry_Door_New_4.png
+- Assets/ColourPrefabs/Presidents/Putin/SpriteSheets/Entry/New/Putin_Entry_Door_New_5.png
+- Assets/ColourPrefabs/Presidents/Putin/SpriteSheets/Entry/New/Putin_Entry_Door_New_6.png
+- Assets/ColourPrefabs/Presidents/Putin/SpriteSheets/Exit/Grow_Exit/puting_exit_grow.png
+- Assets/ColourPrefabs/Presidents/Putin/SpriteSheets/Exit/Grow_Exit/puting_exit_grow_1.png
+- Assets/ColourPrefabs/Presidents/Putin/SpriteSheets/Exit/Grow_Exit/puting_exit_grow_3.png
+- Assets/ColourPrefabs/Presidents/Putin/SpriteSheets/Exit/Grow_Exit/puting_exit_grow_4.png
+- Assets/ColourPrefabs/Presidents/Putin/SpriteSheets/Exit/Grow_Exit/puting_exit_grow_5.png
+- Assets/ColourPrefabs/Presidents/Putin/SpriteSheets/Exit/Grow_Exit/puting_exit_grow_6.png
+- Assets/ColourPrefabs/Presidents/Putin/SpriteSheets/Exit/New/Putin_Exit_Door_1_New.png
+- Assets/ColourPrefabs/Presidents/Putin/SpriteSheets/Exit/New/Putin_Exit_Door_New_2.png
+- Assets/ColourPrefabs/Presidents/Putin/SpriteSheets/Exit/New/Putin_Exit_Door_New_7.png
+- Assets/ColourPrefabs/Presidents/Putin/SpriteSheets/Exit/putin_exit_1.png
+- Assets/ColourPrefabs/Presidents/Putin/SpriteSheets/Exit/putin_exit_2.png
+- Assets/ColourPrefabs/Presidents/Putin/SpriteSheets/Exit/putin_exit_2_In_Between.png
+- Assets/ColourPrefabs/Presidents/Putin/SpriteSheets/Exit/putin_exit_3.png
+- Assets/ColourPrefabs/Presidents/Putin/SpriteSheets/Exit/putin_exit_4.png
+- Assets/ColourPrefabs/Presidents/Putin/SpriteSheets/Exit/putin_exit_5.png
+- Assets/ColourPrefabs/Presidents/Putin/SpriteSheets/Exit/putin_exit_6.png
+- Assets/ColourPrefabs/Presidents/Putin/SpriteSheets/Exit/putin_exit_7.png
+- Assets/ColourPrefabs/Presidents/Putin/SpriteSheets/Wrong/Putin_Wrong_1.png
+- Assets/ColourPrefabs/Presidents/Putin/SpriteSheets/Wrong/Putin_Wrong_2.png
+- Assets/ColourPrefabs/Presidents/Queen/Queen_Entry/Queen_Entry_1.png
+- Assets/ColourPrefabs/Presidents/Queen/Queen_Entry/Queen_Entry_2.png
+- Assets/ColourPrefabs/Presidents/Queen/Queen_Entry/Queen_Entry_3.png
+- Assets/ColourPrefabs/Presidents/Queen/Queen_Entry/Queen_Entry_4.png
+- Assets/ColourPrefabs/Presidents/Queen/Queen_Entry/Queen_Entry_5.png
+- Assets/ColourPrefabs/Presidents/Queen/Queen_Exit/Queen_Exit_1.png
+- Assets/ColourPrefabs/Presidents/Queen/Queen_Exit/Queen_Exit_2.png
+- Assets/ColourPrefabs/Presidents/Queen/Queen_Exit/Queen_Exit_3.png
+- Assets/ColourPrefabs/Presidents/Queen/Queen_Exit/Queen_Exit_4.png
+- Assets/ColourPrefabs/Presidents/Queen/Queen_Exit/Queen_Exit_5.png
+- Assets/ColourPrefabs/Presidents/Queen/Queen_Idle/Queen_Idle_SS.png
+- Assets/ColourPrefabs/Presidents/Queen/Queen_Wrong/Queen_Idle_1.png
+- Assets/ColourPrefabs/Presidents/Queen/Queen_Wrong/Queen_Idle_2.png
+- Assets/ColourPrefabs/Presidents/Queen/Queen_Wrong/Queen_Idle_3.png
+- Assets/ColourPrefabs/Presidents/Trump/Trump_Entry/Trump_Entry_1.png
+- Assets/ColourPrefabs/Presidents/Trump/Trump_Entry/Trump_Entry_2.png
+- Assets/ColourPrefabs/Presidents/Trump/Trump_Entry/Trump_Entry_3.png
+- Assets/ColourPrefabs/Presidents/Trump/Trump_Entry/Trump_Entry_4.png
+- Assets/ColourPrefabs/Presidents/Trump/Trump_Entry/Trump_Entry_5.png
+- Assets/ColourPrefabs/Presidents/Trump/Trump_Entry/Trump_Entry_6.png
+- Assets/ColourPrefabs/Presidents/Trump/Trump_Entry/Trump_Entry_7.png
+- Assets/ColourPrefabs/Presidents/Trump/Trump_Entry/Trump_Entry_8.png
+- Assets/ColourPrefabs/Presidents/Trump/Trump_Exit/Trump_Exit_1.png
+- Assets/ColourPrefabs/Presidents/Trump/Trump_Exit/Trump_Exit_2.png
+- Assets/ColourPrefabs/Presidents/Trump/Trump_Exit/Trump_Exit_3.png
+- Assets/ColourPrefabs/Presidents/Trump/Trump_Exit/Trump_Exit_4.png
+- Assets/ColourPrefabs/Presidents/Trump/Trump_Wrong/Trump_Wrong_1.png
+- Assets/ColourPrefabs/Presidents/Trump/Trump_Wrong/Trump_Wrong_2.png
+- Assets/ColourPrefabs/Presidents/Trump/Trump_Wrong/Trump_Wrong_3.png
+normalmapFileNames:
+- Assets/codeandweb.com/Example/SpriteSheet/sprites_n.png
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+enableDebugOutput: 0

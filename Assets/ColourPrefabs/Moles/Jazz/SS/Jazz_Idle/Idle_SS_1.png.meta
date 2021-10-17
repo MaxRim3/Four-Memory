@@ -1,0 +1,1351 @@
+fileFormatVersion: 2
+guid: a33ddea8f8440df4eb2f9c93d2787352
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Idle_SS_1
+    21300002: jazzIdle_00000
+    21300004: jazzIdle_00001
+    21300006: jazzIdle_00002
+    21300008: jazzIdle_00003
+    21300010: jazzIdle_00004
+    21300012: jazzIdle_00005
+    21300014: jazzIdle_00006
+    21300016: jazzIdle_00007
+    21300018: jazzIdle_00008
+    21300020: jazzIdle_00009
+    21300022: jazzIdle_00010
+    21300024: jazzIdle_00011
+    21300026: jazzIdle_00012
+    21300028: jazzIdle_00013
+    21300030: jazzIdle_00014
+    21300032: jazzIdle_00015
+    21300034: jazzIdle_00016
+    21300036: jazzIdle_00017
+    21300038: jazzIdle_00018
+    21300040: jazzIdle_00019
+    21300042: jazzIdle_00020
+    21300044: jazzIdle_00021
+    21300046: jazzIdle_00022
+    21300048: jazzIdle_00023
+    21300050: jazzIdle_00024
+    21300052: jazzIdle_00025
+    21300054: jazzIdle_00026
+    21300056: jazzIdle_00027
+    21300058: jazzIdle_00028
+    21300060: jazzIdle_00029
+    21300062: jazzIdle_00030
+    21300064: jazzIdle_00031
+    21300066: jazzIdle_00032
+    21300068: jazzIdle_00033
+    21300070: jazzIdle_00034
+    21300072: jazzIdle_00035
+    21300074: jazzIdle_00036
+    21300076: jazzIdle_00037
+    21300078: jazzIdle_00038
+    21300080: jazzIdle_00039
+    21300082: jazzIdle_00040
+    21300084: jazzIdle_00041
+    21300086: jazzIdle_00042
+    21300088: jazzIdle_00043
+    21300090: jazzIdle_00044
+    21300092: jazzIdle_00045
+    21300094: jazzIdle_00046
+    21300096: jazzIdle_00047
+    21300098: jazzIdle_00048
+    21300100: jazzIdle_00049
+    21300102: jazzIdle_00050
+    21300104: jazzIdle_00051
+    21300106: jazzIdle_00052
+    21300108: jazzIdle_00053
+    21300110: jazzIdle_00054
+    21300112: jazzIdle_00055
+    21300114: jazzIdle_00056
+    21300116: jazzIdle_00057
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: jazzIdle_00000
+      rect:
+        serializedVersion: 2
+        x: 1284
+        y: 844
+        width: 249
+        height: 251
+      alignment: 9
+      pivot: {x: 0.52208835, y: -0.32270917}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adb84a0deadbf6542bc38e9ae668e53f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jazzIdle_00001
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 1086
+        width: 242
+        height: 249
+      alignment: 9
+      pivot: {x: 0.5, y: -0.3253012}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27d32fda984571346ba8f142d4ea0f79
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jazzIdle_00002
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 854
+        width: 241
+        height: 249
+      alignment: 9
+      pivot: {x: 0.5020747, y: -0.3253012}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10ebcf2300f7d92469eda64c54b91e51
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jazzIdle_00003
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 832
+        width: 245
+        height: 252
+      alignment: 9
+      pivot: {x: 0.4979592, y: -0.32142857}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e00abf7d5a63aef498a8c1e31a808d5e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jazzIdle_00004
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 352
+        width: 249
+        height: 252
+      alignment: 9
+      pivot: {x: 0.5060241, y: -0.32142857}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3255a2ff23ab1664281c6f839da138db
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jazzIdle_00005
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 606
+        width: 252
+        height: 249
+      alignment: 9
+      pivot: {x: 0.5119048, y: -0.32931727}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 187efbe68f8b31d4185cc16355d9cdac
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jazzIdle_00006
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 857
+        width: 252
+        height: 246
+      alignment: 9
+      pivot: {x: 0.515873, y: -0.33333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 367299601d6a65d4cbddb0c5995d3213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jazzIdle_00007
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 1102
+        width: 256
+        height: 243
+      alignment: 9
+      pivot: {x: 0.5234375, y: -0.33333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daefbde26a7a37d418dfcc3180ef8692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jazzIdle_00008
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 1098
+        width: 252
+        height: 243
+      alignment: 9
+      pivot: {x: 0.5436508, y: -0.33744857}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f40b3fa01ff7a8a4998c6109b8ee85db
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jazzIdle_00009
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 854
+        width: 256
+        height: 246
+      alignment: 9
+      pivot: {x: 0.5234375, y: -0.3089431}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0d06230066f10b43874e3fa19e75b98
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jazzIdle_00010
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1110
+        width: 251
+        height: 241
+      alignment: 9
+      pivot: {x: 0.5378486, y: -0.3360996}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99f3428904517264b8b7bdc33bb6173e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jazzIdle_00011
+      rect:
+        serializedVersion: 2
+        x: 1303
+        y: 1342
+        width: 252
+        height: 239
+      alignment: 9
+      pivot: {x: 0.53968257, y: -0.33472803}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f450e9ff073c1641a877df693b002c0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jazzIdle_00012
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 1583
+        width: 255
+        height: 234
+      alignment: 9
+      pivot: {x: 0.54509807, y: -0.34615386}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb263f01032009a45861c559ff9053a8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jazzIdle_00013
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 1347
+        width: 256
+        height: 238
+      alignment: 9
+      pivot: {x: 0.5390625, y: -0.34453782}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ee2e08de50dfa446952a9941aa33ab0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jazzIdle_00014
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1591
+        width: 263
+        height: 232
+      alignment: 9
+      pivot: {x: 0.54372627, y: -0.3448276}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc066c4aa1184e94eb1cd1e8608d7ec0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jazzIdle_00015
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1353
+        width: 263
+        height: 236
+      alignment: 9
+      pivot: {x: 0.53231937, y: -0.33474576}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fb84a501add6e04ca0406e6bf98dd49
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jazzIdle_00016
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 1583
+        width: 256
+        height: 234
+      alignment: 9
+      pivot: {x: 0.546875, y: -0.34188035}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9996109cb52621d40893b3ce4a7f511d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jazzIdle_00017
+      rect:
+        serializedVersion: 2
+        x: 1578
+        y: 1816
+        width: 265
+        height: 231
+      alignment: 9
+      pivot: {x: 0.53962266, y: -0.33766234}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8344858e222defa469f60c0c31771d75
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jazzIdle_00018
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 1589
+        width: 262
+        height: 232
+      alignment: 9
+      pivot: {x: 0.5458015, y: -0.3448276}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b54ed59c108eea439ce074ffcb871b4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jazzIdle_00019
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 1819
+        width: 263
+        height: 228
+      alignment: 9
+      pivot: {x: 0.5475285, y: -0.34210527}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee1d981cd99fd0444ab05eacadcf5f1b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jazzIdle_00020
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 1823
+        width: 262
+        height: 224
+      alignment: 9
+      pivot: {x: 0.5458015, y: -0.35714287}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f9eccdb3d2bfb341b5f93616b74df6b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jazzIdle_00021
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1825
+        width: 263
+        height: 222
+      alignment: 9
+      pivot: {x: 0.53992397, y: -0.36486486}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80ce53c6afe428f48826168ad4f7a66e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jazzIdle_00022
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 1821
+        width: 262
+        height: 226
+      alignment: 9
+      pivot: {x: 0.54198474, y: -0.3539823}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c059c26dff5ab34a9fc7c9d187e89d4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jazzIdle_00023
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 1822
+        width: 259
+        height: 225
+      alignment: 9
+      pivot: {x: 0.5405405, y: -0.35555556}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 834da3338b3a94045b915df9a11951fe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jazzIdle_00024
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 1588
+        width: 257
+        height: 232
+      alignment: 9
+      pivot: {x: 0.53696495, y: -0.34913793}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4f9a937fadac054f9e615ccf710d138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jazzIdle_00025
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 1819
+        width: 256
+        height: 228
+      alignment: 9
+      pivot: {x: 0.53515625, y: -0.35964912}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ea36f41fba5ecc40afaa62460f033d9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jazzIdle_00026
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 1350
+        width: 261
+        height: 237
+      alignment: 9
+      pivot: {x: 0.5210728, y: -0.34177214}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0513a6406a108d4d8001f6e5ab1091f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jazzIdle_00027
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 1587
+        width: 254
+        height: 232
+      alignment: 9
+      pivot: {x: 0.53937006, y: -0.35344827}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba4f55b44a3772d45ac5ff3b701cecf5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jazzIdle_00028
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 1343
+        width: 258
+        height: 238
+      alignment: 9
+      pivot: {x: 0.5155039, y: -0.33613446}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea93b3324721078489a70e440b846d1d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jazzIdle_00029
+      rect:
+        serializedVersion: 2
+        x: 1282
+        y: 1097
+        width: 253
+        height: 243
+      alignment: 9
+      pivot: {x: 0.53754944, y: -0.3251029}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e065a7bc86bc4648ac80b3bccee1e25
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jazzIdle_00030
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 1349
+        width: 254
+        height: 237
+      alignment: 9
+      pivot: {x: 0.511811, y: -0.34177214}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b05ad7069346e7442a59819c6345cdff
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jazzIdle_00031
+      rect:
+        serializedVersion: 2
+        x: 1557
+        y: 1337
+        width: 251
+        height: 240
+      alignment: 9
+      pivot: {x: 0.5099602, y: -0.32916668}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 121895aab6a2a5e4d8ce5e09f034d809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jazzIdle_00032
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 1579
+        width: 259
+        height: 235
+      alignment: 9
+      pivot: {x: 0.5173745, y: -0.34893617}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd4480e1ed78e614daec0fec78c7800d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jazzIdle_00033
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 1107
+        width: 260
+        height: 241
+      alignment: 9
+      pivot: {x: 0.5346154, y: -0.3360996}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0b965e96d698294ea6f7dbfd14c86e3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jazzIdle_00034
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 1105
+        width: 252
+        height: 242
+      alignment: 9
+      pivot: {x: 0.515873, y: -0.338843}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56e7272d9b52ed4458d60d4d578e46e2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jazzIdle_00035
+      rect:
+        serializedVersion: 2
+        x: 1537
+        y: 1090
+        width: 261
+        height: 245
+      alignment: 9
+      pivot: {x: 0.52873564, y: -0.32244897}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7609f45254f497b43a3a9a623091c725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jazzIdle_00036
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 860
+        width: 264
+        height: 245
+      alignment: 9
+      pivot: {x: 0.52272725, y: -0.3265306}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46c09351ab890da4b859dc7ae37a44cc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jazzIdle_00037
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 849
+        width: 260
+        height: 246
+      alignment: 9
+      pivot: {x: 0.52692306, y: -0.32520324}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd3bc1ba64d4fc148b93d3bd61d76bbf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jazzIdle_00038
+      rect:
+        serializedVersion: 2
+        x: 1535
+        y: 842
+        width: 263
+        height: 246
+      alignment: 9
+      pivot: {x: 0.5247148, y: -0.3292683}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d86bfdde67bf20b49bccccbb73ac61b7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jazzIdle_00039
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 352
+        width: 266
+        height: 252
+      alignment: 9
+      pivot: {x: 0.5338346, y: -0.32142857}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ffdd7af1a875004289a510ceddbe8c0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jazzIdle_00040
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 606
+        width: 266
+        height: 246
+      alignment: 9
+      pivot: {x: 0.5300752, y: -0.3211382}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 152e136ac28800d419595d3e9e499f98
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jazzIdle_00041
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 345
+        width: 264
+        height: 252
+      alignment: 9
+      pivot: {x: 0.5378788, y: -0.32142857}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dd18b82f34205f48a013a4bf9086f76
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jazzIdle_00042
+      rect:
+        serializedVersion: 2
+        x: 1568
+        y: 323
+        width: 261
+        height: 254
+      alignment: 9
+      pivot: {x: 0.52873564, y: -0.31889763}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df2014ec82c84494eac18f0200555b8d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jazzIdle_00043
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 592
+        width: 272
+        height: 250
+      alignment: 9
+      pivot: {x: 0.5257353, y: -0.324}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5d69cfafc5361544ae377313b036b22
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jazzIdle_00044
+      rect:
+        serializedVersion: 2
+        x: 1578
+        y: 579
+        width: 275
+        height: 251
+      alignment: 9
+      pivot: {x: 0.53090906, y: -0.32270917}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a297ed730436a54bbf36d50910c6341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jazzIdle_00045
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 77
+        width: 255
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5176471, y: -0.31640625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36e5f6732194f6249bc9008f7b73ff81
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jazzIdle_00046
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 95
+        width: 270
+        height: 255
+      alignment: 9
+      pivot: {x: 0.5185185, y: -0.31764707}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83f33c7b45bf94741baca99b1383be04
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jazzIdle_00047
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 610
+        width: 263
+        height: 248
+      alignment: 9
+      pivot: {x: 0.53231937, y: -0.3266129}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1366a1de6bc51fd4c97be78ea27e04a4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jazzIdle_00048
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 88
+        width: 267
+        height: 255
+      alignment: 9
+      pivot: {x: 0.5318352, y: -0.31764707}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60334b97c36e63b4e9b7cd5815195ffe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jazzIdle_00049
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 599
+        width: 258
+        height: 248
+      alignment: 9
+      pivot: {x: 0.503876, y: -0.33064517}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef440e97d5add274a839939ce1963a90
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jazzIdle_00050
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 335
+        width: 270
+        height: 253
+      alignment: 9
+      pivot: {x: 0.52592593, y: -0.3201581}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e55e6177bad686840aa0faf87e038b5e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jazzIdle_00051
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 78
+        width: 257
+        height: 255
+      alignment: 9
+      pivot: {x: 0.5252918, y: -0.31764707}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57e5ef547fe62b04cb6b99a95363a690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jazzIdle_00052
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 338
+        width: 251
+        height: 252
+      alignment: 9
+      pivot: {x: 0.5099602, y: -0.32142857}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd283ec044ef36440a41543e0ac4ed4b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jazzIdle_00053
+      rect:
+        serializedVersion: 2
+        x: 1557
+        y: 64
+        width: 254
+        height: 257
+      alignment: 9
+      pivot: {x: 0.53149605, y: -0.3151751}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e886d3fe446f993499e60423f8677938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jazzIdle_00054
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 357
+        width: 255
+        height: 251
+      alignment: 9
+      pivot: {x: 0.53333336, y: -0.32270917}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55a739ddab45a434698d771622ca7ae2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jazzIdle_00055
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 101
+        width: 251
+        height: 254
+      alignment: 9
+      pivot: {x: 0.5139442, y: -0.31889763}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97ab1ca94a2147c4f8863bcb6b434cf9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jazzIdle_00056
+      rect:
+        serializedVersion: 2
+        x: 1322
+        y: 590
+        width: 254
+        height: 250
+      alignment: 9
+      pivot: {x: 0.51968503, y: -0.324}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdf85f99a9611f941b1158e4e5324d35
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jazzIdle_00057
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 92
+        width: 244
+        height: 258
+      alignment: 9
+      pivot: {x: 0.50409836, y: -0.3139535}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd351c9db502a1c42aecb31d9354a1c5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 64403e6e8ef82b246beb0cab61843818
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

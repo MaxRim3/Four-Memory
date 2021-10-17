@@ -1,0 +1,532 @@
+fileFormatVersion: 2
+guid: 071470ec85f292948bdf3be3a0311b98
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Baker_Hit_HD
+    21300002: bakerHit_HD2048_00000
+    21300004: bakerHit_HD2048_00001
+    21300006: bakerHit_HD2048_00002
+    21300008: bakerHit_HD2048_00003
+    21300010: bakerHit_HD2048_00004
+    21300012: bakerHit_HD2048_00005
+    21300014: bakerHit_HD2048_00006
+    21300016: bakerHit_HD2048_00007
+    21300018: bakerHit_HD2048_00008
+    21300020: bakerHit_HD2048_00009
+    21300022: bakerHit_HD2048_00010
+    21300024: bakerHit_HD2048_00011
+    21300026: bakerHit_HD2048_00012
+    21300028: bakerHit_HD2048_00013
+    21300030: bakerHit_HD2048_00014
+    21300032: bakerHit_HD2048_00015
+    21300034: bakerHit_HD2048_00016
+    21300036: bakerHit_HD2048_00017
+    21300038: bakerHit_HD2048_00018
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: bakerHit_HD2048_00000
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 3367
+        width: 587
+        height: 728
+      alignment: 9
+      pivot: {x: 0.5229983, y: -0.2239011}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46baaf57a5bb0ff4192041f7d24e85bf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bakerHit_HD2048_00001
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 3376
+        width: 594
+        height: 719
+      alignment: 9
+      pivot: {x: 0.5252525, y: -0.22670375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e812374d336e5ab44ab63d617037d84c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bakerHit_HD2048_00002
+      rect:
+        serializedVersion: 2
+        x: 1186
+        y: 3396
+        width: 610
+        height: 699
+      alignment: 9
+      pivot: {x: 0.52459013, y: -0.23319027}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0f5e9cb7594c0a4190bb02620cd37dd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bakerHit_HD2048_00003
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 2002
+        width: 636
+        height: 669
+      alignment: 9
+      pivot: {x: 0.5267296, y: -0.24364723}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6d3b75d8eff93e48ab331f0420851b5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bakerHit_HD2048_00004
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 605
+        width: 665
+        height: 634
+      alignment: 9
+      pivot: {x: 0.5293233, y: -0.25709778}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85342d7b749d935479ae82a2234999d6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bakerHit_HD2048_00005
+      rect:
+        serializedVersion: 2
+        x: 1240
+        y: 2130
+        width: 694
+        height: 599
+      alignment: 9
+      pivot: {x: 0.53458214, y: -0.2721202}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c403c0566be4a348a90c9d13390d432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bakerHit_HD2048_00006
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 802
+        width: 711
+        height: 574
+      alignment: 9
+      pivot: {x: 0.53727144, y: -0.2839721}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1c591d4c9b7a7143a5e7e34e76b0e89
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bakerHit_HD2048_00007
+      rect:
+        serializedVersion: 2
+        x: 1936
+        y: 2300
+        width: 721
+        height: 563
+      alignment: 9
+      pivot: {x: 0.5395284, y: -0.2895204}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d4442654fba5c146beb5178eb91f58f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bakerHit_HD2048_00008
+      rect:
+        serializedVersion: 2
+        x: 1307
+        y: 1561
+        width: 719
+        height: 567
+      alignment: 9
+      pivot: {x: 0.5396384, y: -0.28747794}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d57144b9fb2aee645b1384ebd171d817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bakerHit_HD2048_00009
+      rect:
+        serializedVersion: 2
+        x: 2460
+        y: 3520
+        width: 712
+        height: 575
+      alignment: 9
+      pivot: {x: 0.53792137, y: -0.28347826}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8d542d790aab3246b25b1896fb6a46f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bakerHit_HD2048_00010
+      rect:
+        serializedVersion: 2
+        x: 1852
+        y: 2865
+        width: 706
+        height: 586
+      alignment: 9
+      pivot: {x: 0.5368272, y: -0.278157}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0c85e5860fc84541a5515687a5b139d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bakerHit_HD2048_00011
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 695
+        height: 602
+      alignment: 9
+      pivot: {x: 0.5352518, y: -0.2707641}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f48d353e6df8974cb42b3d372bd87e5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bakerHit_HD2048_00012
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 1378
+        width: 678
+        height: 622
+      alignment: 9
+      pivot: {x: 0.53244835, y: -0.26205787}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2093fae58cc7311468e054eae4ec04ed
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bakerHit_HD2048_00013
+      rect:
+        serializedVersion: 2
+        x: 1798
+        y: 3453
+        width: 660
+        height: 642
+      alignment: 9
+      pivot: {x: 0.52878785, y: -0.2538941}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2916a0a697e008c458e2c2896004f0d1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bakerHit_HD2048_00014
+      rect:
+        serializedVersion: 2
+        x: 1206
+        y: 2731
+        width: 644
+        height: 663
+      alignment: 9
+      pivot: {x: 0.5295031, y: -0.24585219}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b182e4b88cb3e4241bf80d5009431b23
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bakerHit_HD2048_00015
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1241
+        width: 624
+        height: 683
+      alignment: 9
+      pivot: {x: 0.525641, y: -0.238653}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da5170a15b0b90d4fbc09ea0f67b5b86
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bakerHit_HD2048_00016
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 2673
+        width: 610
+        height: 701
+      alignment: 9
+      pivot: {x: 0.5262295, y: -0.23252496}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c871892da8d74c4998020903c3eff31
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bakerHit_HD2048_00017
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1926
+        width: 599
+        height: 714
+      alignment: 9
+      pivot: {x: 0.52587646, y: -0.22829132}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ef19937025eb0244894d58e83cbe7dc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bakerHit_HD2048_00018
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2642
+        width: 591
+        height: 723
+      alignment: 9
+      pivot: {x: 0.5245347, y: -0.22544952}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 809a49ecaeaa5b74ab81c638f100ae95
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 619ca23f549585543ac8b39a9dbb3326
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

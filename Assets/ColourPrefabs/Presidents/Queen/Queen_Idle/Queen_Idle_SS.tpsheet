@@ -1,0 +1,17 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# https://www.codeandweb.com/texturepacker/unity
+#
+# $TexturePacker:SmartUpdate:f05a9aa7831bc35d1a29cffccd28cdf8:66035a58ae6d603aa4c7c3f7d93ca4e8:c3d12c85c39e712229417ea3bd27f560$
+#
+:format=40300
+:texture=Queen_Idle_SS.png
+:size=1024x2048
+:pivotpoints=enabled
+:borders=disabled
+:alphahandling=ClearTransparentPixels
+
+idle_podium_1;1;1535;512;512; 0.5;0.5; 0;0;0;0; 4;512;0;0;0;0;512;512;512; 2;1;2;3;0;1;3
+idle_podium_2;1;1021;512;512; 0.5;0.5; 0;0;0;0; 4;512;0;0;0;0;512;512;512; 2;1;2;3;0;1;3

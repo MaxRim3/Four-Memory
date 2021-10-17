@@ -1,0 +1,532 @@
+fileFormatVersion: 2
+guid: 2d65d5b7a31dac44b8554fd68ae19624
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: zoo_Idle_2
+    21300002: zooIdle_00041
+    21300004: zooIdle_00042
+    21300006: zooIdle_00043
+    21300008: zooIdle_00044
+    21300010: zooIdle_00045
+    21300012: zooIdle_00046
+    21300014: zooIdle_00047
+    21300016: zooIdle_00048
+    21300018: zooIdle_00049
+    21300020: zooIdle_00050
+    21300022: zooIdle_00051
+    21300024: zooIdle_00052
+    21300026: zooIdle_00053
+    21300028: zooIdle_00054
+    21300030: zooIdle_00055
+    21300032: zooIdle_00056
+    21300034: zooIdle_00057
+    21300036: zooIdle_00058
+    21300038: zooIdle_00059
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: zooIdle_00041
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 668
+        width: 256
+        height: 355
+      alignment: 9
+      pivot: {x: 0.54296875, y: -0.22253521}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf852f1ce4b73644c9880b864f64d561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zooIdle_00042
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 290
+        width: 258
+        height: 356
+      alignment: 9
+      pivot: {x: 0.5426357, y: -0.22191012}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2abc9714e3bb30a4e846c98bf3d98748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zooIdle_00043
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 648
+        width: 258
+        height: 375
+      alignment: 9
+      pivot: {x: 0.5426357, y: -0.21066667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8e40502603a7594bb10dc15968ba3db
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zooIdle_00044
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 679
+        width: 258
+        height: 344
+      alignment: 9
+      pivot: {x: 0.53488374, y: -0.22965117}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29a55dd3cfef4e24eb322ca70de0d0d1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zooIdle_00045
+      rect:
+        serializedVersion: 2
+        x: 1553
+        y: 685
+        width: 256
+        height: 338
+      alignment: 9
+      pivot: {x: 0.53125, y: -0.23964497}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a2ab4cd7d5cbca4cb0a06c25c7d05a6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zooIdle_00046
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 683
+        width: 259
+        height: 340
+      alignment: 9
+      pivot: {x: 0.5405405, y: -0.23529412}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d14d7d6536dbcd418484de6f91d41e1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zooIdle_00047
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 312
+        width: 253
+        height: 354
+      alignment: 9
+      pivot: {x: 0.52964425, y: -0.22316384}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36ff8bcc7e33f0241bc5e965158fade1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zooIdle_00048
+      rect:
+        serializedVersion: 2
+        x: 1295
+        y: 680
+        width: 256
+        height: 343
+      alignment: 9
+      pivot: {x: 0.53125, y: -0.2361516}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f00b2646f59e5074d87b763b3c63b3ad
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zooIdle_00049
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 673
+        width: 253
+        height: 350
+      alignment: 9
+      pivot: {x: 0.5256917, y: -0.23142858}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21e089c80087d98408c6bde625eb7184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zooIdle_00050
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 341
+        width: 255
+        height: 336
+      alignment: 9
+      pivot: {x: 0.5294118, y: -0.23511904}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c12a19d023b02f44782b964fa78d7f19
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zooIdle_00051
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 334
+        width: 256
+        height: 337
+      alignment: 9
+      pivot: {x: 0.53125, y: -0.23738873}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6d6be1ebcd4f3b4d8e98eb455c60467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zooIdle_00052
+      rect:
+        serializedVersion: 2
+        x: 1287
+        y: 343
+        width: 255
+        height: 335
+      alignment: 9
+      pivot: {x: 0.5294118, y: -0.23582089}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de36565c3e26cfb428f62100af20e8ca
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zooIdle_00053
+      rect:
+        serializedVersion: 2
+        x: 1794
+        y: 6
+        width: 251
+        height: 334
+      alignment: 9
+      pivot: {x: 0.5179283, y: -0.23952095}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8ae1c9279cbabf4688a3d62681dbe3d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zooIdle_00054
+      rect:
+        serializedVersion: 2
+        x: 1544
+        y: 342
+        width: 254
+        height: 336
+      alignment: 9
+      pivot: {x: 0.52362204, y: -0.23809524}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ce1223ae6a1a824cb87a2cb8dcc61e5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zooIdle_00055
+      rect:
+        serializedVersion: 2
+        x: 1282
+        y: 4
+        width: 254
+        height: 335
+      alignment: 9
+      pivot: {x: 0.52362204, y: -0.23880596}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14f3894370f714b4c8c71c79fe60feb8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zooIdle_00056
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 2
+        width: 251
+        height: 330
+      alignment: 9
+      pivot: {x: 0.5139442, y: -0.24242425}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8203ec5d4eb788e4c8075c47122e40a7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zooIdle_00057
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 327
+        width: 254
+        height: 339
+      alignment: 9
+      pivot: {x: 0.51968503, y: -0.2359882}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 585eb345a7f25f0408d41713a7d964a5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zooIdle_00058
+      rect:
+        serializedVersion: 2
+        x: 1538
+        y: 7
+        width: 254
+        height: 333
+      alignment: 9
+      pivot: {x: 0.51968503, y: -0.23723723}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ea8631014855e1438eb7b6ad8b7f66b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zooIdle_00059
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 2
+        width: 255
+        height: 330
+      alignment: 9
+      pivot: {x: 0.5176471, y: -0.24545455}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65224576d3bfbb244a6c6d0e60aecc43
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 32d87c333c5e62641a2d2e50243c1a8e
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

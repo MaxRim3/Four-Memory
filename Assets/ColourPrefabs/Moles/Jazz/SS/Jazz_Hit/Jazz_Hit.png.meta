@@ -1,0 +1,553 @@
+fileFormatVersion: 2
+guid: 3f2818a2122d24341a2c719009f35013
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Jazz_Hit
+    21300002: jazzHit_00000
+    21300004: jazzHit_00001
+    21300006: jazzHit_00002
+    21300008: jazzHit_00003
+    21300010: jazzHit_00004
+    21300012: jazzHit_00005
+    21300014: jazzHit_00006
+    21300016: jazzHit_00007
+    21300018: jazzHit_00008
+    21300020: jazzHit_00009
+    21300022: jazzHit_00010
+    21300024: jazzHit_00011
+    21300026: jazzHit_00012
+    21300028: jazzHit_00013
+    21300030: jazzHit_00014
+    21300032: jazzHit_00015
+    21300034: jazzHit_00016
+    21300036: jazzHit_00017
+    21300038: jazzHit_00018
+    21300040: jazzHit_00019
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: jazzHit_00000
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 907
+        width: 237
+        height: 252
+      alignment: 9
+      pivot: {x: 0.4978903, y: -0.31746033}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79c7666f9cb9ca44ba8892dc231d0ef7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jazzHit_00001
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 1582
+        width: 252
+        height: 249
+      alignment: 9
+      pivot: {x: 0.50396824, y: -0.32128513}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cca1b6762dd79bb4396d3ae88583bf76
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jazzHit_00002
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 1170
+        width: 243
+        height: 243
+      alignment: 9
+      pivot: {x: 0.49382716, y: -0.3251029}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 999bd8eaa7448cc419c42573fbf78d02
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jazzHit_00003
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1187
+        width: 246
+        height: 233
+      alignment: 9
+      pivot: {x: 0.5, y: -0.34334764}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e24efc1b3e05ea48bb36acf6a69b016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jazzHit_00004
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 1821
+        width: 253
+        height: 226
+      alignment: 9
+      pivot: {x: 0.5019763, y: -0.35840708}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce2626af344ab0f40ab89ca644b20501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jazzHit_00005
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1828
+        width: 254
+        height: 219
+      alignment: 9
+      pivot: {x: 0.51968503, y: -0.3607306}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12872316834d1e84cb503acf7c2b7945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jazzHit_00006
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1422
+        width: 249
+        height: 214
+      alignment: 9
+      pivot: {x: 0.5140562, y: -0.36915886}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 072e0a967b10a0446b887c8e0cc18415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jazzHit_00007
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1841
+        width: 249
+        height: 206
+      alignment: 9
+      pivot: {x: 0.49799198, y: -0.39320388}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72688d17cde4bda4aa976b351981ebe7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jazzHit_00008
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 976
+        width: 242
+        height: 192
+      alignment: 9
+      pivot: {x: 0.49586776, y: -0.42708334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58b877469e39a254388317f1a490fbd4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jazzHit_00009
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 1415
+        width: 246
+        height: 188
+      alignment: 9
+      pivot: {x: 0.5243902, y: -0.43617022}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d747e101982a8684d829ea7782a1679e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jazzHit_00010
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 1624
+        width: 248
+        height: 195
+      alignment: 9
+      pivot: {x: 0.5080645, y: -0.3897436}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45faa57c8962bba46812310a0a0a4542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jazzHit_00011
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1638
+        width: 250
+        height: 188
+      alignment: 9
+      pivot: {x: 0.516, y: -0.43617022}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6941a6a3f759bd41bc43f07b1aeb535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jazzHit_00012
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 1138
+        width: 243
+        height: 203
+      alignment: 9
+      pivot: {x: 0.4979424, y: -0.38916257}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6832241b89c64b942b53d05c549bbfc4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jazzHit_00013
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 1161
+        width: 243
+        height: 211
+      alignment: 9
+      pivot: {x: 0.5020576, y: -0.36966825}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a846cbd2ebb7df4785f08e1f856860b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jazzHit_00014
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 1833
+        width: 254
+        height: 214
+      alignment: 9
+      pivot: {x: 0.515748, y: -0.37850466}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9dbeac18e47b2a4db0946aa0cfc982b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jazzHit_00015
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 962
+        width: 242
+        height: 223
+      alignment: 9
+      pivot: {x: 0.5041322, y: -0.35874438}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd0174e80e94afa4caeba18a6847e785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jazzHit_00016
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1605
+        width: 248
+        height: 234
+      alignment: 9
+      pivot: {x: 0.50403225, y: -0.34615386}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a712d4e068363044981e3558d3b83642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jazzHit_00017
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 1343
+        width: 246
+        height: 237
+      alignment: 9
+      pivot: {x: 0.4878049, y: -0.33333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c6fe21d5295a974ca206aebad19282d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jazzHit_00018
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 1374
+        width: 246
+        height: 248
+      alignment: 9
+      pivot: {x: 0.49593496, y: -0.32258064}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34ca4b3332ac9e945a71910b6c0afa44
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jazzHit_00019
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 1825
+        width: 1
+        height: 1
+      alignment: 9
+      pivot: {x: 640, y: -639}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1a31b2ec13196e499eed8263bba3c71
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: e1385ab9a6cca974cb6b06d42394af68
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,973 @@
+fileFormatVersion: 2
+guid: cd49a9b7a7c3225489c6ad0e1e71119d
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Child_Up_HD
+    21300002: Child_Up_HD_00000
+    21300004: Child_Up_HD_00001
+    21300006: Child_Up_HD_00002
+    21300008: Child_Up_HD_00003
+    21300010: Child_Up_HD_00004
+    21300012: Child_Up_HD_00005
+    21300014: Child_Up_HD_00006
+    21300016: Child_Up_HD_00007
+    21300018: Child_Up_HD_00008
+    21300020: Child_Up_HD_00009
+    21300022: Child_Up_HD_00010
+    21300024: Child_Up_HD_00011
+    21300026: Child_Up_HD_00012
+    21300028: Child_Up_HD_00013
+    21300030: Child_Up_HD_00014
+    21300032: Child_Up_HD_00015
+    21300034: Child_Up_HD_00016
+    21300036: Child_Up_HD_00017
+    21300038: Child_Up_HD_00018
+    21300040: Child_Up_HD_00019
+    21300042: Child_Up_HD_00020
+    21300044: Child_Up_HD_00021
+    21300046: Child_Up_HD_00022
+    21300048: Child_Up_HD_00023
+    21300050: Child_Up_HD_00024
+    21300052: Child_Up_HD_00025
+    21300054: Child_Up_HD_00026
+    21300056: Child_Up_HD_00027
+    21300058: Child_Up_HD_00028
+    21300060: Child_Up_HD_00029
+    21300062: Child_Up_HD_00030
+    21300064: Child_Up_HD_00031
+    21300066: Child_Up_HD_00032
+    21300068: Child_Up_HD_00033
+    21300070: Child_Up_HD_00034
+    21300072: Child_Up_HD_00035
+    21300074: Child_Up_HD_00036
+    21300076: Child_Up_HD_00037
+    21300078: Child_Up_HD_00038
+    21300080: Child_Up_HD_00039
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Child_Up_HD_00000
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 1847
+        width: 1
+        height: 1
+      alignment: 9
+      pivot: {x: 640, y: -639}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 309f22275876992449f50998d4e20ddc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Child_Up_HD_00001
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 1847
+        width: 1
+        height: 1
+      alignment: 9
+      pivot: {x: 640, y: -639}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35954dd52c1543c40be4b704afb8d592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Child_Up_HD_00002
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 1847
+        width: 1
+        height: 1
+      alignment: 9
+      pivot: {x: 640, y: -639}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f372b0afcadd21446aff38f6697cbb14
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Child_Up_HD_00003
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 1847
+        width: 1
+        height: 1
+      alignment: 9
+      pivot: {x: 640, y: -639}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac1f5d0761656ee4d9045e855b684814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Child_Up_HD_00004
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 1847
+        width: 1
+        height: 1
+      alignment: 9
+      pivot: {x: 640, y: -639}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdd2d977eb3bec3468ba17678d8ccd17
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Child_Up_HD_00005
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 1847
+        width: 1
+        height: 1
+      alignment: 9
+      pivot: {x: 640, y: -639}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a7525e3633e6a44ebad4e1fc49e2a83
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Child_Up_HD_00006
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 1847
+        width: 1
+        height: 1
+      alignment: 9
+      pivot: {x: 640, y: -639}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d4f2fd19df3e904cbc7fbc5c9822fd5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Child_Up_HD_00007
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 926
+        width: 59
+        height: 20
+      alignment: 9
+      pivot: {x: 0.22033899, y: -4.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e839942a7aee22040b07513e44213d84
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Child_Up_HD_00008
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 451
+        width: 157
+        height: 46
+      alignment: 9
+      pivot: {x: 0.44585988, y: -1.7391304}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e97e9b04fd9983c4c8675469a910b826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Child_Up_HD_00009
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 387
+        width: 141
+        height: 64
+      alignment: 9
+      pivot: {x: 0.39716312, y: -1.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83a6a5e807a3139489710daa765d62fb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Child_Up_HD_00010
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 1947
+        width: 181
+        height: 100
+      alignment: 9
+      pivot: {x: 0.29281768, y: -0.64}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c17662c14fee9ba4baa68095335f9558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Child_Up_HD_00011
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 1834
+        width: 177
+        height: 111
+      alignment: 9
+      pivot: {x: 0.27118644, y: -0.5855856}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11916b14fd1f8eb4fb3612b16dd91899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Child_Up_HD_00012
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 463
+        width: 207
+        height: 113
+      alignment: 9
+      pivot: {x: 0.352657, y: -0.7079646}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39b0fe936c68e7e42b8243904f59aa14
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Child_Up_HD_00013
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 578
+        width: 210
+        height: 133
+      alignment: 9
+      pivot: {x: 0.3857143, y: -0.59398496}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4f91899a50356e4cad0078636ddb34b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Child_Up_HD_00014
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 790
+        width: 229
+        height: 156
+      alignment: 9
+      pivot: {x: 0.37117904, y: -0.50641024}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40c7af6297be68e40b147254ed4c8d58
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Child_Up_HD_00015
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 1850
+        width: 271
+        height: 197
+      alignment: 9
+      pivot: {x: 0.36900368, y: -0.26395938}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ef660eb0cd027e488ba16128e12cbe5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Child_Up_HD_00016
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 1637
+        width: 261
+        height: 211
+      alignment: 9
+      pivot: {x: 0.39846742, y: -0.25592417}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac9a4b0d19761144cbc6d713342e7980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Child_Up_HD_00017
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 1845
+        width: 269
+        height: 202
+      alignment: 9
+      pivot: {x: 0.42007434, y: -0.4009901}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc3019e935448cd4e8854376e13150cb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Child_Up_HD_00018
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1821
+        width: 272
+        height: 226
+      alignment: 9
+      pivot: {x: 0.44117647, y: -0.3539823}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe8fcc0b5a360f54b96f78c1de7dda44
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Child_Up_HD_00019
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1588
+        width: 257
+        height: 231
+      alignment: 9
+      pivot: {x: 0.4396887, y: -0.35497835}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c3ff32b902330b48ac85f1894200a99
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Child_Up_HD_00020
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 1148
+        width: 240
+        height: 242
+      alignment: 9
+      pivot: {x: 0.49583334, y: -0.338843}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4440c0801deebbf4ca020daa57820a29
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Child_Up_HD_00021
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 499
+        width: 222
+        height: 255
+      alignment: 9
+      pivot: {x: 0.509009, y: -0.31764707}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b258b483bf043194582393adfa4b9bf4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Child_Up_HD_00022
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 522
+        width: 213
+        height: 266
+      alignment: 9
+      pivot: {x: 0.52112675, y: -0.30451128}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4cf2392d37139c46a7dd359f313bfce
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Child_Up_HD_00023
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 453
+        width: 213
+        height: 280
+      alignment: 9
+      pivot: {x: 0.5070422, y: -0.27857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e76e4aa173c79764db4f74b304290a43
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Child_Up_HD_00024
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 948
+        width: 235
+        height: 250
+      alignment: 9
+      pivot: {x: 0.43404254, y: -0.328}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 038c9df9cc635c04b98a3dac0a231c11
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Child_Up_HD_00025
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 1615
+        width: 250
+        height: 228
+      alignment: 9
+      pivot: {x: 0.384, y: -0.3640351}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df4984a423f9ea948af9b7d031239bcf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Child_Up_HD_00026
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 713
+        width: 228
+        height: 214
+      alignment: 9
+      pivot: {x: 0.37280703, y: -0.38785046}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 453db04f0d6da78478d45a46e8fd21f6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Child_Up_HD_00027
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1174
+        width: 244
+        height: 198
+      alignment: 9
+      pivot: {x: 0.3647541, y: -0.41414142}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8120aed79c99f36439ad5d157d45be2a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Child_Up_HD_00028
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 1411
+        width: 242
+        height: 199
+      alignment: 9
+      pivot: {x: 0.38016528, y: -0.41708544}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32b78075eb0b0ba45981a5d1ee9ed8d7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Child_Up_HD_00029
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 1200
+        width: 241
+        height: 209
+      alignment: 9
+      pivot: {x: 0.3526971, y: -0.37320575}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 010531c78d345cc4e916ed49cc09b4e7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Child_Up_HD_00030
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1374
+        width: 250
+        height: 212
+      alignment: 9
+      pivot: {x: 0.348, y: -0.38207546}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87192174ad1ade8408e291b6bb2e1baf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Child_Up_HD_00031
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 929
+        width: 235
+        height: 217
+      alignment: 9
+      pivot: {x: 0.36595744, y: -0.359447}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a861f7c77c91714c9f1d724a090544d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Child_Up_HD_00032
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 1414
+        width: 250
+        height: 221
+      alignment: 9
+      pivot: {x: 0.348, y: -0.3484163}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2834d104cb5455a498682ae05da651c0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Child_Up_HD_00033
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 1195
+        width: 245
+        height: 217
+      alignment: 9
+      pivot: {x: 0.35510203, y: -0.359447}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd5b6cb058fb1854fb68ae60db86ff20
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Child_Up_HD_00034
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 756
+        width: 232
+        height: 217
+      alignment: 9
+      pivot: {x: 0.36637932, y: -0.37327188}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d60f56e363adfb94faf771ff4ddeba7f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Child_Up_HD_00035
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 975
+        width: 238
+        height: 218
+      alignment: 9
+      pivot: {x: 0.3697479, y: -0.38073394}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2912f116844b8ce4181a28711385604d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Child_Up_HD_00036
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1392
+        width: 245
+        height: 221
+      alignment: 9
+      pivot: {x: 0.35918367, y: -0.37104073}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f43e8f2c7856fd46821c2dd25fc08c4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Child_Up_HD_00037
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 735
+        width: 230
+        height: 220
+      alignment: 9
+      pivot: {x: 0.36956522, y: -0.37727273}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bce8430357c8ec84cad0ba9dbcb1d79a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Child_Up_HD_00038
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 957
+        width: 236
+        height: 215
+      alignment: 9
+      pivot: {x: 0.37711865, y: -0.38139534}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02d8bc5f592a40e40ade24ca659235ba
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Child_Up_HD_00039
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 1612
+        width: 233
+        height: 220
+      alignment: 9
+      pivot: {x: 0.39055794, y: -0.37272727}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d14fef6666f1b9e4fa2b6ba48a0d294b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 02d0a18379efb714da926efd6b2cda2e
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,973 @@
+fileFormatVersion: 2
+guid: 81b455a8e87ddac4891be120921da158
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Baker_Down_HD
+    21300002: bakerDown_HD2048_00000
+    21300004: bakerDown_HD2048_00001
+    21300006: bakerDown_HD2048_00002
+    21300008: bakerDown_HD2048_00003
+    21300010: bakerDown_HD2048_00004
+    21300012: bakerDown_HD2048_00005
+    21300014: bakerDown_HD2048_00006
+    21300016: bakerDown_HD2048_00007
+    21300018: bakerDown_HD2048_00008
+    21300020: bakerDown_HD2048_00009
+    21300022: bakerDown_HD2048_00010
+    21300024: bakerDown_HD2048_00011
+    21300026: bakerDown_HD2048_00012
+    21300028: bakerDown_HD2048_00013
+    21300030: bakerDown_HD2048_00014
+    21300032: bakerDown_HD2048_00015
+    21300034: bakerDown_HD2048_00016
+    21300036: bakerDown_HD2048_00017
+    21300038: bakerDown_HD2048_00018
+    21300040: bakerDown_HD2048_00019
+    21300042: bakerDown_HD2048_00020
+    21300044: bakerDown_HD2048_00021
+    21300046: bakerDown_HD2048_00022
+    21300048: bakerDown_HD2048_00023
+    21300050: bakerDown_HD2048_00024
+    21300052: bakerDown_HD2048_00025
+    21300054: bakerDown_HD2048_00026
+    21300056: bakerDown_HD2048_00027
+    21300058: bakerDown_HD2048_00028
+    21300060: bakerDown_HD2048_00029
+    21300062: bakerDown_HD2048_00030
+    21300064: bakerDown_HD2048_00031
+    21300066: bakerDown_HD2048_00032
+    21300068: bakerDown_HD2048_00033
+    21300070: bakerDown_HD2048_00034
+    21300072: bakerDown_HD2048_00035
+    21300074: bakerDown_HD2048_00036
+    21300076: bakerDown_HD2048_00037
+    21300078: bakerDown_HD2048_00038
+    21300080: bakerDown_HD2048_00039
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: bakerDown_HD2048_00000
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1046
+        width: 587
+        height: 730
+      alignment: 9
+      pivot: {x: 0.5229983, y: -0.22191781}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e627c2ab2b9f1c4b91fcafc325dc14c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bakerDown_HD2048_00001
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 1824
+        width: 587
+        height: 722
+      alignment: 9
+      pivot: {x: 0.5229983, y: -0.22437674}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f206caee21550424e8d286fd3452e9a7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bakerDown_HD2048_00002
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 340
+        width: 586
+        height: 709
+      alignment: 9
+      pivot: {x: 0.5221843, y: -0.22849083}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f19782a983a45e246b62c6b87d6185b3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bakerDown_HD2048_00003
+      rect:
+        serializedVersion: 2
+        x: 1231
+        y: 1866
+        width: 584
+        height: 694
+      alignment: 9
+      pivot: {x: 0.5205479, y: -0.2334294}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34ad910a8f56fe74abbcf3952a3ef890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bakerDown_HD2048_00004
+      rect:
+        serializedVersion: 2
+        x: 1276
+        y: 3417
+        width: 583
+        height: 678
+      alignment: 9
+      pivot: {x: 0.51972556, y: -0.23893805}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dead2c1dfdf16234ab9f0adb2ffe26e8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bakerDown_HD2048_00005
+      rect:
+        serializedVersion: 2
+        x: 1861
+        y: 3430
+        width: 581
+        height: 665
+      alignment: 9
+      pivot: {x: 0.5180723, y: -0.24360903}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c2d1238d93206c47a5f0102c6906e3a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bakerDown_HD2048_00006
+      rect:
+        serializedVersion: 2
+        x: 1862
+        y: 2775
+        width: 578
+        height: 653
+      alignment: 9
+      pivot: {x: 0.51557094, y: -0.24808575}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dd90cb413d951e4c917baff1c658fe0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bakerDown_HD2048_00007
+      rect:
+        serializedVersion: 2
+        x: 1821
+        y: 1359
+        width: 577
+        height: 646
+      alignment: 9
+      pivot: {x: 0.51473135, y: -0.250774}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9a9ae1c9f2ad0c4999fcc3ff4a3c7c3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bakerDown_HD2048_00008
+      rect:
+        serializedVersion: 2
+        x: 1817
+        y: 2007
+        width: 582
+        height: 658
+      alignment: 9
+      pivot: {x: 0.5137457, y: -0.2462006}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e987a8ab4e188640bbd7894fdec8db6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bakerDown_HD2048_00009
+      rect:
+        serializedVersion: 2
+        x: 1268
+        y: 2667
+        width: 592
+        height: 678
+      alignment: 9
+      pivot: {x: 0.5101351, y: -0.23893805}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd6b85e4d54e95242872db417f145c9c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bakerDown_HD2048_00010
+      rect:
+        serializedVersion: 2
+        x: 1205
+        y: 348
+        width: 603
+        height: 701
+      alignment: 9
+      pivot: {x: 0.5058043, y: -0.23109843}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffaeee2f2bd7caa4d86fd135fedc1a2d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bakerDown_HD2048_00011
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 1051
+        width: 614
+        height: 725
+      alignment: 9
+      pivot: {x: 0.50162864, y: -0.22344828}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aee4524b32813ab4dbec5f691c217a57
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bakerDown_HD2048_00012
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 3347
+        width: 625
+        height: 748
+      alignment: 9
+      pivot: {x: 0.4976, y: -0.21657754}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 969a40c05e7f4a442acf4c15853c8fb6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bakerDown_HD2048_00013
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2544
+        width: 637
+        height: 770
+      alignment: 9
+      pivot: {x: 0.49293563, y: -0.21038961}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55bd60f50e6a17540a9b2cb9b1f4833b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bakerDown_HD2048_00014
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 3316
+        width: 646
+        height: 779
+      alignment: 9
+      pivot: {x: 0.48916408, y: -0.2143774}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc1c96d8095f74742b52d1a12b27c677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bakerDown_HD2048_00015
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1778
+        width: 639
+        height: 764
+      alignment: 9
+      pivot: {x: 0.48513302, y: -0.21204188}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c0cea47cf7e5fb42801d5cf7f76b714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bakerDown_HD2048_00016
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 2562
+        width: 626
+        height: 752
+      alignment: 9
+      pivot: {x: 0.4824281, y: -0.21542554}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 639b846e52720d340bfe0757c4ea1358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bakerDown_HD2048_00017
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 315
+        width: 614
+        height: 729
+      alignment: 9
+      pivot: {x: 0.48045602, y: -0.22222222}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d07f4db1e71b1fd43bb1f49b04c0fcd5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bakerDown_HD2048_00018
+      rect:
+        serializedVersion: 2
+        x: 1206
+        y: 1123
+        width: 613
+        height: 699
+      alignment: 9
+      pivot: {x: 0.4812398, y: -0.23175965}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 569db8329641fd948af11fbf337a66cd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bakerDown_HD2048_00019
+      rect:
+        serializedVersion: 2
+        x: 1810
+        y: 458
+        width: 612
+        height: 663
+      alignment: 9
+      pivot: {x: 0.48202613, y: -0.2428356}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5040d64e9fd88343a7dc2410b5c85d0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bakerDown_HD2048_00020
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 1367
+        width: 611
+        height: 638
+      alignment: 9
+      pivot: {x: 0.48281506, y: -0.23197491}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28cd46eb4e18797469b1a700b5969829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bakerDown_HD2048_00021
+      rect:
+        serializedVersion: 2
+        x: 2401
+        y: 2164
+        width: 610
+        height: 609
+      alignment: 9
+      pivot: {x: 0.4852459, y: -0.22660099}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07441cf7e1996a749aca84a88869f4dc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bakerDown_HD2048_00022
+      rect:
+        serializedVersion: 2
+        x: 2442
+        y: 2860
+        width: 609
+        height: 568
+      alignment: 9
+      pivot: {x: 0.48604268, y: -0.24119718}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d4c660a000c682479e89b06b62a7988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bakerDown_HD2048_00023
+      rect:
+        serializedVersion: 2
+        x: 2444
+        y: 3560
+        width: 607
+        height: 535
+      alignment: 9
+      pivot: {x: 0.48764417, y: -0.23738317}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94c82323f52ea754b9b25b804a5c2844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bakerDown_HD2048_00024
+      rect:
+        serializedVersion: 2
+        x: 3053
+        y: 3577
+        width: 605
+        height: 518
+      alignment: 9
+      pivot: {x: 0.4892562, y: -0.1969112}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7af308a863a98f242b33eefd6aad8c12
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bakerDown_HD2048_00025
+      rect:
+        serializedVersion: 2
+        x: 3053
+        y: 3091
+        width: 604
+        height: 484
+      alignment: 9
+      pivot: {x: 0.49172187, y: -0.18801653}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa477df8cd7970d47be106b2a1f6363f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bakerDown_HD2048_00026
+      rect:
+        serializedVersion: 2
+        x: 1834
+        y: 34
+        width: 583
+        height: 422
+      alignment: 9
+      pivot: {x: 0.509434, y: -0.25592417}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f66911463a464c24b846a433898ebbff
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bakerDown_HD2048_00027
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 15
+        width: 400
+        height: 323
+      alignment: 9
+      pivot: {x: 0.7425, y: -0.501548}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 652689568f199504fae901e0a300d58c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bakerDown_HD2048_00028
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 35
+        width: 399
+        height: 278
+      alignment: 9
+      pivot: {x: 0.7443609, y: -0.5827338}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87f2ce5a4c35f454f9afeb9b8a6c7237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bakerDown_HD2048_00029
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 80
+        width: 381
+        height: 233
+      alignment: 9
+      pivot: {x: 0.78215224, y: -0.69527894}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff6e81692aae06540a6895c5ad8ca7f2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bakerDown_HD2048_00030
+      rect:
+        serializedVersion: 2
+        x: 1187
+        y: 147
+        width: 321
+        height: 191
+      alignment: 9
+      pivot: {x: 0.9283489, y: -0.82722515}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61d197827c41fe14ca05c65d3e72d41a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bakerDown_HD2048_00031
+      rect:
+        serializedVersion: 2
+        x: 1510
+        y: 169
+        width: 322
+        height: 177
+      alignment: 9
+      pivot: {x: 0.9254658, y: -0.72316384}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1839cf0d42b0f814eaec968d77268639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bakerDown_HD2048_00032
+      rect:
+        serializedVersion: 2
+        x: 1510
+        y: 14
+        width: 322
+        height: 153
+      alignment: 9
+      pivot: {x: 0.9254658, y: -0.7058824}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bab68374764d67049b0bcaced23dd449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bakerDown_HD2048_00033
+      rect:
+        serializedVersion: 2
+        x: 1187
+        y: 41
+        width: 312
+        height: 104
+      alignment: 9
+      pivot: {x: 0.92948717, y: -1.0961539}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2830f98addbc76c46add7517282c2f56
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bakerDown_HD2048_00034
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 2551
+        width: 23
+        height: 9
+      alignment: 9
+      pivot: {x: 2.9130435, y: -18.555555}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac8e29df5576eaa439825060a0b299e0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bakerDown_HD2048_00035
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 2548
+        width: 1
+        height: 1
+      alignment: 9
+      pivot: {x: 512, y: -1023}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04264a462890dd84f99f31b616f4510c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bakerDown_HD2048_00036
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 2548
+        width: 1
+        height: 1
+      alignment: 9
+      pivot: {x: 512, y: -1023}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26504f0648c8a6741ba398d3e424273a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bakerDown_HD2048_00037
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 2548
+        width: 1
+        height: 1
+      alignment: 9
+      pivot: {x: 512, y: -1023}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd55fbacee977234aafee152dceb3821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bakerDown_HD2048_00038
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 2548
+        width: 1
+        height: 1
+      alignment: 9
+      pivot: {x: 512, y: -1023}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66fe6525a01c91b47a6df513bca43f9c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bakerDown_HD2048_00039
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 2548
+        width: 1
+        height: 1
+      alignment: 9
+      pivot: {x: 512, y: -1023}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f6562182f57a7e479e11839f8390fd3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 4b4c1268ada77c742855662b20f6a251
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

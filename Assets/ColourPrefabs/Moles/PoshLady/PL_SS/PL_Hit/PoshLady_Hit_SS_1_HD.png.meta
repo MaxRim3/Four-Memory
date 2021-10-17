@@ -1,0 +1,532 @@
+fileFormatVersion: 2
+guid: c95b0c4d3a365144289f9221b4a4d24b
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: PoshLady_Hit_SS_1_HD
+    21300002: poshladyHit_00000
+    21300004: poshladyHit_00001
+    21300006: poshladyHit_00002
+    21300008: poshladyHit_00003
+    21300010: poshladyHit_00004
+    21300012: poshladyHit_00005
+    21300014: poshladyHit_00006
+    21300016: poshladyHit_00007
+    21300018: poshladyHit_00008
+    21300020: poshladyHit_00009
+    21300022: poshladyHit_00010
+    21300024: poshladyHit_00011
+    21300026: poshladyHit_00012
+    21300028: poshladyHit_00013
+    21300030: poshladyHit_00014
+    21300032: poshladyHit_00015
+    21300034: poshladyHit_00016
+    21300036: poshladyHit_00017
+    21300038: poshladyHit_00018
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: poshladyHit_00000
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1685
+        width: 282
+        height: 362
+      alignment: 9
+      pivot: {x: 0.4219858, y: -0.22099447}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4be959d429a2b4e4d89c98ad3a8dbda2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poshladyHit_00001
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1323
+        width: 285
+        height: 360
+      alignment: 9
+      pivot: {x: 0.40350878, y: -0.22222222}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1342a9833f3ffdf438309c33879ad2a1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poshladyHit_00002
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 962
+        width: 276
+        height: 359
+      alignment: 9
+      pivot: {x: 0.42028984, y: -0.22284123}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fc5dafe04863d840af0fe15c3a5da19
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poshladyHit_00003
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 965
+        width: 276
+        height: 356
+      alignment: 9
+      pivot: {x: 0.42028984, y: -0.2247191}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17c3cb0af3f47d3429389130ebef4a09
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poshladyHit_00004
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 1330
+        width: 255
+        height: 356
+      alignment: 9
+      pivot: {x: 0.45882353, y: -0.2247191}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d69686574e4e9b4c865c67ca061b1e9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poshladyHit_00005
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 248
+        width: 271
+        height: 354
+      alignment: 9
+      pivot: {x: 0.4686347, y: -0.22033899}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4deb2cd3acdf13d4fa5fe44b23b0d018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poshladyHit_00006
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 612
+        width: 255
+        height: 351
+      alignment: 9
+      pivot: {x: 0.5411765, y: -0.22222222}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b041aca34a98fa4429acdd428a7b3131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poshladyHit_00007
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 611
+        width: 266
+        height: 352
+      alignment: 9
+      pivot: {x: 0.5601504, y: -0.2215909}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb01ea0cc416dcb44b6262b1fe7d4023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poshladyHit_00008
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 979
+        width: 274
+        height: 350
+      alignment: 9
+      pivot: {x: 0.5839416, y: -0.22571428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d31adb1d6e49a9d44a340b101270dbb0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poshladyHit_00009
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 1346
+        width: 297
+        height: 344
+      alignment: 9
+      pivot: {x: 0.5993266, y: -0.22383721}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ce0ac2343b7cf04d9e3167d8fe038a6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poshladyHit_00010
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 277
+        width: 294
+        height: 333
+      alignment: 9
+      pivot: {x: 0.61904764, y: -0.24024025}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78a3bb48fd68be641b70e50da18d81f3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poshladyHit_00011
+      rect:
+        serializedVersion: 2
+        x: 1122
+        y: 1707
+        width: 282
+        height: 340
+      alignment: 9
+      pivot: {x: 0.5992908, y: -0.23529412}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3694e2b653d8454a968e8477d94d060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poshladyHit_00012
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 1703
+        width: 274
+        height: 344
+      alignment: 9
+      pivot: {x: 0.5985401, y: -0.23255815}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e897ff7d7a1238a4f9974654219e95ff
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poshladyHit_00013
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 257
+        width: 262
+        height: 352
+      alignment: 9
+      pivot: {x: 0.5534351, y: -0.2215909}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d2224cdba6e4f545a4b4274655c943c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poshladyHit_00014
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 1692
+        width: 257
+        height: 355
+      alignment: 9
+      pivot: {x: 0.52140075, y: -0.2197183}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d58a3ef49ec78e46ba5e2fe258b868e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poshladyHit_00015
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 248
+        width: 258
+        height: 354
+      alignment: 9
+      pivot: {x: 0.46899223, y: -0.2259887}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 183a5cef9d6a7c34e9992831afabd3c7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poshladyHit_00016
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 1331
+        width: 277
+        height: 355
+      alignment: 9
+      pivot: {x: 0.4440433, y: -0.22535211}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f27999511e5248429e5adbf5d8ad624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poshladyHit_00017
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 604
+        width: 282
+        height: 356
+      alignment: 9
+      pivot: {x: 0.41489363, y: -0.2247191}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa50980834d1ee2499f07bb7464a2139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poshladyHit_00018
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 1688
+        width: 300
+        height: 359
+      alignment: 9
+      pivot: {x: 0.39, y: -0.22284123}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0714515c29f693a41a5054e18eaee762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: f355908d00f9fb14e90d5f33c233f9cf
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
